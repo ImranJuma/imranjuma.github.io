@@ -41,8 +41,8 @@ disqus_shortname:   imranjuma
 twitter:            imranjuma49
 facebook:           imranjuma
 github-url:         imranjuma
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          username
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          imranjuma
 #xing:              username
 instagram:          imranjuma
 #lastfm:            username
@@ -50,7 +50,7 @@ instagram:          imranjuma
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
