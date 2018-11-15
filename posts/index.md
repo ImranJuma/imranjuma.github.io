@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Check Out All My Differnt Projects Here
+title: Check My Different Projects Here
 excerpt: "A List of Posts"
 comments: false
 ---
