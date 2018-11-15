@@ -22,7 +22,7 @@ comments: false
 
 ## Resume Information
 
-<center><a Click the link below and check out my full Resume.</center>
+{% Click the link below and check out my full Resume %}
 
 [Resume](https://drive.google.com/file/d/19w_rXBwo4_NmAZ033eFC_iXMr30HH9M5/view?usp=sharing){: .btn}
 
