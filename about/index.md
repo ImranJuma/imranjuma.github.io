@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-<center><a href="https://www.linkedin.com/in/imran-juma-939173129/"><b>TESTImran Gabrani-Juma</b></a> Is a hobbyist programmer who has designed and built mobile applications along with dozens of websites for iOS devices. Extensive knowledge in software design including desktop applications, SQL and command line interfaces, Imran possess the tools to support any development team.</center>
+<center><a href="https://www.linkedin.com/in/imran-juma-939173129/"><b>Imran Gabrani-Juma</b></a> Is a hobbyist programmer who has designed and built mobile applications along with dozens of websites for iOS devices. Extensive knowledge in software design including desktop applications, SQL and command line interfaces, Imran possess the tools to support any development team.</center>
 
 ## Development Languages & Tools
 * X-Code / Swift
@@ -23,8 +23,7 @@ comments: false
 ## Preview
 
 {% capture images %}
-    https://github.com/ImranJuma/imranjuma.github.io/blob/master/assets/img/Resume.pdf
-    #https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
