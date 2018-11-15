@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
+title: About Imran Gabrani-Juma
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://imranjuma.github.io"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://www.linkedin.com/in/imran-juma-939173129/"><b>Imran Gabrani-Juma</b></a> Is a hobbyist programmer who has designed and built mobile applications along with dozes of websites for iOS devices. Extensive knowledge in software design including desktop applications, SQL and command line interfaces, Imran posses the tools to support any team</center>
 
 ## Features
 * Minimal, you can focus on your content
