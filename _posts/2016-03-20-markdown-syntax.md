@@ -2,7 +2,7 @@
 layout: post
 title:  "TipToTax"
 date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "Have you ever wondered how much to tip when going out to eat? Curious how much the bill is before tax? Download my Android application and test it out! This is also an open source project"
 tag:
 - markdown
 - syntax
