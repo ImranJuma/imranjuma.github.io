@@ -2,7 +2,7 @@
 layout: post
 title: "Tic Tac Toe iOS"
 date: 2012-05-22
-excerpt: "Have you ever wondered how much to tip when going out to eat? Curious how much the bill is before tax? Download my Android application and test it out! This is also an open source project"
+excerpt: "A ton of text to test readability."
 tags: [sample post, readability, test]
 comments: true
 ---
