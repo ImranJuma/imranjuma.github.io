@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+Have you ever wondered how much to tip when going out to eat? Curious how much the bill is before tax? This live Android Application teaches the basics of Android Studio including how to use Radio Buttons, Design themes, and much more. The Project is fully available on my href="https://www.linkedin.com/in/imran-juma-939173129/"><b>Github.</b> Feel free to download the project and try it out! Below are some screen captures taken from this application. 
 
 ### Figures (for images or video)
 
