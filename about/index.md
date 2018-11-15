@@ -8,17 +8,17 @@ comments: false
     
 <center><a href="https://www.linkedin.com/in/imran-juma-939173129/"><b>Imran Gabrani-Juma</b></a> Is a hobbyist programmer who has designed and built mobile applications along with dozes of websites for iOS devices. Extensive knowledge in software design including desktop applications, SQL and command line interfaces, Imran posses the tools to support any team</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Development Languages & Tools
+* X-Code / Swift
+* Java for Android Studio
+* Java 
+* C
+* C++
+* Jekyll
+* Adobe XD 
+* Adobe Photoshop
+* Adobe Lightroom 
+* Sketch 
 
 ## Preview
 
