@@ -6,9 +6,26 @@ excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
 comments: true
 ---
-For this project I made a iOS application for the client so that way customers can see all the different products they offer as well as have an amazing experience while shopping. From the clinets perspective they wanted all the information from their existing website put inside a mobile application for iOS. The real challange here was to integreate so much information into a single mobile app. Through this application, customers can see the different services offered, email the support team directly for order inquires, as well as see the different products that can be custom made.
+For this project I made a Web Socket Chat Room. This project was for my course COMP 2406, a second year mobile application development course that is taught half the year in iOS (Swift) and half the year in Android Studio (Java). For this assingment we made first a web socket to learn the fundamentals of web development, and then hammered out the mobile application. This project only works on a local host however I particularly enjoyed the design aspect of this porject as i got amazing hands on experiance developing and designing a mobile app my own way.
 
-[View Project](https://github.com/ImranJuma/EuroStarForiOS){: .btn} [View Client Website](https://www.eurostarwindows.ca){: .btn}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[View Project](https://github.com/ImranJuma/JumaChat){: .btn}
 
 <figure class="third">
 	<img src="http://placehold.it/600x300.jpg">
