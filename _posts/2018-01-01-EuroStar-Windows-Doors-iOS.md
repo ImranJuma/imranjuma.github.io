@@ -9,9 +9,7 @@ tag:
 - video
 comments: true
 ---
-For this project I made a custom iOS application for a client. The client wanted all the information from their exisiting website put inside a mobile application for iOS. Here customers can see the different services they offer, email them, as well as see the different products they make as well. Check out the project here.
-
-This is my first Public iOS application, I am currently working on making a mobile application for a local business here in Ottawa, Ontario. The application will host all the services that the company offers as well as booking and information request. This application also has a new feature to link all the social media accounts of the business in one convent page. Defiantly check it out!
+For this project I made a iOS application for the client so that way customers can see all the different products they offer as well as have an amazing experience while shopping. From the clinets perspective they wanted all the information from their existing website put inside a mobile application for iOS. The real challange here was to integreate so much information into a single mobile app. Through this application, customers can see the different services offered, email the support team directly for order inquires, as well as see the different products that can be custom made. <center><a href="https://www.linkedin.com/in/imran-juma-939173129/"><b>Check Out The Project Here</b></a>.
 
 [View Project](https://github.com/ImranJuma/EuroStarForiOS){: .btn}
 
