@@ -14,7 +14,7 @@ For this project I made a iOS application for the client so that way customers c
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
-	<figcaption>Three images.</figcaption>
+	<figcaption>Sample Pictures From Application.</figcaption>
 </figure>
 
 

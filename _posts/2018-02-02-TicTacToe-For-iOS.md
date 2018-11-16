@@ -39,7 +39,7 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
-	<figcaption>Three images.</figcaption>
+  <figcaption>Sample Pictures From Application.</figcaption>
 </figure>
 
 ### iOS Application Pictures
