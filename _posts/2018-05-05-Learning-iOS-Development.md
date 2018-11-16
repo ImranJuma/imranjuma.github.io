@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iOS Development from A-Z"
-date:   2015-08-10
+date:   2018-05-05
 excerpt: "MathJax Example for Moon Jekyll Theme."
 tag:
 - markdown
