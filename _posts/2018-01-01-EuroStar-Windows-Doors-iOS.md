@@ -16,17 +16,6 @@ For this project I made a iOS application for the client so that way customers c
 
 [View Client Website](https://www.eurostarwindows.ca){: .btn}
 
-{% highlight html %}
-<figure class="third">
-	<img src="/images/image-filename-1.jpg">
-	<img src="/images/image-filename-2.jpg">
-	<img src="/images/image-filename-3.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
-{% endhighlight %}
-
-And you'll get something that looks like this:
-
 <figure class="third">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
