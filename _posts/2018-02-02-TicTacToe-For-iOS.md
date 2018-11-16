@@ -13,11 +13,11 @@ For this project I made a iOS application for a class mate, the student wanted m
 
 The following Application was built on X-Code 9.1 and Tested on iOS 10-11.0.3
 This application will and can run on the following devices
-	- iPhone 6
-	- iPhone 7
-	- iPhone 8
-	- iPhone X (Most Of The Time)
-	- iPhone SE / 5S / 5C (Most Of The Time)
+	* iPhone 6
+	* iPhone 7
+	* iPhone 8
+	* iPhone X (Most Of The Time)
+	* iPhone SE / 5S / 5C (Most Of The Time)
 
 Important Information: 
 All files have also been backed up and noted in ReadMe.txt file, however this application will sometimes crash if running on X-Code 9.1 on some Mac devices. Have confirmed it is not the code, and is a result of an X-Code beta. If you are running the X-Code Beta, You Cannot Run My Assignment
@@ -55,10 +55,10 @@ And you'll get something that looks like this:
 
 ### iOS Application Pictures
 
-#### Home Screen
+### Home Screen
 
-#### Services Page
+### Services Page
 
-#### Contact Us Page
+### Contact Us Page
 
 ### Social Media Links
