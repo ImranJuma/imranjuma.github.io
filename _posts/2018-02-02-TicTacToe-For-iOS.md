@@ -31,9 +31,27 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
   ** https://www.youtube.com/watch?v=lDMV8Um_8n8
 
 * Helped Me Fix Errors, SO MANY ERROR’s
-** https://teamtreehouse.com/community/thread-1-signal-sigabrt-at-the-end 
+** https://teamtreehouse.com/community/thread-1-signal-sigabrt-at-the-end
 
 [View Project](https://github.com/ImranJuma/TicTacToeiOS){: .btn}
+
+{% highlight html %}
+<figure class="third">
+	<img src="/images/image-filename-1.jpg">
+	<img src="/images/image-filename-2.jpg">
+	<img src="/images/image-filename-3.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+{% endhighlight %}
+
+And you'll get something that looks like this:
+
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<figcaption>Three images.</figcaption>
+</figure>
 
 ### iOS Application Pictures
 
