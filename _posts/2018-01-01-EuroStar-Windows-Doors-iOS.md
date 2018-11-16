@@ -2,14 +2,20 @@
 layout: post
 title:  "Eurostar Windows & Doors iOS Application"
 date:   2018-01-01
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: "A custom made iOS Appkication supporting iOS 11.2.0 and Greater. Application supports a Window Business in Ottawa, Ontario, Canada"
 tag:
 - sample
 - post
 - video
 comments: true
 ---
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
+For this project I made a custom iOS application for a client. The client wanted all the information from their exisiting website put inside a mobile application for iOS. Here customers can see the different services they offer, email them, as well as see the different products they make as well. Check out the project here.
+
+This is my first Public iOS application, I am currently working on making a mobile application for a local business here in Ottawa, Ontario. The application will host all the services that the company offers as well as booking and information request. This application also has a new feature to link all the social media accounts of the business in one convent page. Defiantly check it out!
+
+[View Project](https://github.com/ImranJuma/EuroStarForiOS){: .btn}
+
+[View Client's Website](https://www.eurostarwindows.ca){: .btn}
 
 ### Figures (for images or video)
 
