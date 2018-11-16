@@ -2,7 +2,7 @@
 layout: post
 title:  "Eurostar Windows & Doors iOS Application"
 date:   2018-01-01
-excerpt: "A custom made iOS Appkication supporting iOS 11.2.0 and Greater. Application supports a Window Business in Ottawa, Ontario, Canada"
+excerpt: "A custom made 📱 iOS App supporting iOS 11.2.0 and Greater. This mobile app is for a local custom window business in Ottawa, Ontario, Canada 🇨🇦 "
 tag:
 - sample
 - post
