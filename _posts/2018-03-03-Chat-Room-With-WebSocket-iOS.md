@@ -10,7 +10,7 @@ comments: true
 
 For this project I made a Web Socket Chat Room. This project was for my course COMP 2406, a second year mobile application development course that is taught half the year in iOS (Swift) and half the year in Android Studio (Java). For this assignment we made first a web socket to learn the fundamentals of web development, and then hammered out the mobile application. This project only works on a local host however I particularly enjoyed the design aspect of this project as i got amazing hands on experience developing and designing a mobile app my own way.
 
-## ReadMe Information / Deployment Instructions
+## ReadMe Information & Deployment Instructions
 
 The following Application was built on X-Code 9.1 and Tested on iOS 10-11.0.3
 This application will and can run on the following devices.
@@ -22,20 +22,20 @@ This application will and can run on the following devices.
 	* Hit Connect To Server
 	* Enjoy Application
 
-# Here Are The following implementations that have been added to my application
+# Implementation Techniques
 
-## Functionality Adaptations
+### Functionality Adaptations
 
 * UIAlert For Connection
 * UIAlert For Disconnection
 
-# Page Adaptations
+### Page Adaptations
 * UILaunchScreen Page Added
 * UIInstructions Page Added
 * UIExit Page Added
 * UIMainMenu Page Added
 
-# Button Adaptations
+### Button Adaptations
 * UIConnect Button Modified
 * UIDisconnect Button Modified
 * UISend Button Modified
