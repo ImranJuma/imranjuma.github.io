@@ -2,7 +2,7 @@
 layout: post
 title: "Chat Room with WebSocket for iOS"
 date:   2016-03-03
-excerpt: "Examples and code for displaying images in posts."
+excerpt: "A 💻 Web Socket & iOS Application 📱 All In One 🆒 💬"
 tags: [sample post, images, test]
 comments: true
 ---
