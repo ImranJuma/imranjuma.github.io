@@ -45,7 +45,7 @@ This application will and can run on the following devices.
 
 * <a href="https://www.raywenderlich.com/143874/websockets-ios-starscream"><b>Reference 1</b></a> This resource on different kinds of application tools
 
-* <a href="https://github.com/daltoniam/Starscream"><b>Reference 1</b></a> Great documentation on how to keep the code clean and organized, I found it very helpful during the building process of my application
+* <a href="https://github.com/daltoniam/Starscream"><b>Reference 2</b></a> Great documentation on how to keep the code clean and organized, I found it very helpful during the building process of my application
 
 [View Project](https://github.com/ImranJuma/JumaChat){: .btn}
 
