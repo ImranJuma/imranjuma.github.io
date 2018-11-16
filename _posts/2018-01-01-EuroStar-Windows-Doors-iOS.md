@@ -10,8 +10,6 @@ For this project I made a iOS application for the client so that way customers c
 
 [View Project](https://github.com/ImranJuma/EuroStarForiOS){: .btn} [View Client Website](https://www.eurostarwindows.ca){: .btn}
 
-
-
 <figure class="third">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
