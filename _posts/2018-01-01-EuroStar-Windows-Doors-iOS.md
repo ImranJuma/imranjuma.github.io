@@ -37,10 +37,10 @@ And you'll get something that looks like this:
 
 ### iOS Application Pictures
 
-#### Home Screen
+### Home Screen
 
-#### Services Page
+### Services Page
 
-#### Contact Us Page
+### Contact Us Page
 
 ### Social Media Links
