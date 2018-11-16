@@ -23,19 +23,14 @@ This application will and can run on the following devices.
 ## Important Information: 
 All files have also been backed up and noted in ReadMe.txt file, however this application will sometimes crash if running on X-Code 9.1 on some Mac devices. Have confirmed it is not the code, and is a result of an X-Code beta. If you are running the X-Code Beta, You Cannot Run My Assignment
 
-# Test
-<a href="https://www.linkedin.com/in/imran-juma-939173129/"><b>Click Here</b></a> to contact me directly, or click the button below and download my full Resume.
-
 ## Here Are Some Reference Links For Building The Project:
 
-* (How To Move Between View Controllers)
-** https://appsandbiscuits.com/move-between-view-controllers-with-segues-ios-9-7e231159e8f4
+* <a href="https://appsandbiscuits.com/move-between-view-controllers-with-segues-ios-9-7e231159e8f4"><b>Reference 1</b></a> How To Move Between View Controllers
 
-* How To Create Different Alerts
-  ** https://www.youtube.com/watch?v=lDMV8Um_8n8
+* <a href="https://www.youtube.com/watch?v=lDMV8Um_8n8"><b>Reference 2</b></a> How To Create Different Alerts
 
-* Helped Me Fix Errors, SO MANY ERROR’s
-** https://teamtreehouse.com/community/thread-1-signal-sigabrt-at-the-end
+* <a href="https://teamtreehouse.com/community/thread-1-signal-sigabrt-at-the-end
+"><b>Reference 3</b></a> Helped Me Fix Errors, SO MANY ERROR’s
 
 [View Project](https://github.com/ImranJuma/TicTacToeiOS){: .btn}
 
