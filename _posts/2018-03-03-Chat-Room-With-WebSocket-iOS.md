@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chat Room with WebSocket for iOS"
-date:   2018-03-03
+date:   2016-03-03
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
 comments: true

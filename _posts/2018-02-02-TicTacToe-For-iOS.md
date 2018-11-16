@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tic Tac Toe iOS"
-date:   2018-02-02
+date:   2017-02-02
 excerpt: "A ton of text to test readability."
 tags: [sample post, readability, test]
 comments: true
