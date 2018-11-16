@@ -3,7 +3,6 @@ layout: post
 title: "Tic Tac Toe iOS ✖️ 0️⃣"
 date:   2017-02-02
 excerpt: "This is your average Tic-Tac-Toe game built in swift, this project was built as part of a in class for a mobile development course. I found this to be a great learning experience on patterns and how to get Swift code to recognize them"
-tags: [sample post, readability, test]
 comments: true
 ---
 
@@ -24,7 +23,6 @@ This application will and can run on the following devices.
 All files have also been backed up and noted in ReadMe.txt file, however this application will sometimes crash if running on X-Code 9.1 on some Mac devices. Have confirmed it is not the code, and is a result of an X-Code beta. If you are running the X-Code Beta, You Cannot Run My Assignment
 
 ## Here Are Some Reference Links For Building The Project:
-#Test
 
 * <a href="https://appsandbiscuits.com/move-between-view-controllers-with-segues-ios-9-7e231159e8f4"><b>Reference 1</b></a> How To Move Between View Controllers
 
