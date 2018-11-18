@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syntax Highlighting Post
+title: Maze Game for iOS
 date:   2011-08-08
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
 tags: [sample post, code, highlighting]

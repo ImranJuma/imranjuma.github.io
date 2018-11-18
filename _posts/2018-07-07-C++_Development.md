@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "C++ Development from A-Z"
 date:   2013-06-06
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post with Image Feature"
+title: "Java Development from A-Z"
 date:   2012-07-07
 excerpt: "A ton of text to test readability with image feature."
 tags: [sample post, readability, test, image, feature]
