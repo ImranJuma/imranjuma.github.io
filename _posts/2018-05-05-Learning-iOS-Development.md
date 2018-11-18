@@ -12,41 +12,37 @@ tag:
 comments: true
 ---
 
-[MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
+Have you ever wondered how to write code in Swift? Curious how what tools and skills you need to make iOS Apps? Follow this project on my journey to making cool apps and learning different tools. As well, if your interested in taking this course yourself, check out the link href="https://www.udemy.com/ios-11-xcode-9-swift-4/"><b>Here.</b>. Feel free to download the project and try it out! Below are some screen captures taken from this project.
 
-## Usage
+The following Application(s) where built on X-Code 9.1 and Tested on iOS 10-11.0.3
+This application will and can run on the following devices.
 
-To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file.
+	* iPhone 6
+  * iPhone 6s
+  * iPhone 6s + (Some Size Reformat Needed)
+	* iPhone 7
+  * iPhone 7 + (Some Size Reformat Needed)
+	* iPhone 8
+  * iPhone 8 + (Some Size Reformat Needed)
+	* iPhone X (Most Of The Time)
+  * iPhone XS (Most Of The Time)
+	* iPhone SE / 5S / 5C (Most Of The Time)
 
-~~~
-markdown: kramdown
-mathjax: true
-~~~
+[View Project](https://github.com/ImranJuma/Learning-iOS){: .btn}
 
-~~~
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering:
-\\[ \frac{1}{n^{2}} \\]
-~~~
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+  <figcaption>Sample Pictures From Application.</figcaption>
+</figure>
 
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering:
-\\[ \frac{1}{n^{2}} \\]
+### Clock Time
 
-The only thing to look out for is the escaping of the backslash when using markdown, so the delimiters become `\\[ ... \\]` and `\\( ... \\)` for inline and block maths respectively.
+### Custom Text Maker
 
+### Press Me
 
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
+### Contact Us Page
+
+### Social Media Links
