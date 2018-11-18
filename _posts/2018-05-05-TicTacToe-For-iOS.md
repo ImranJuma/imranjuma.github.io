@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tic Tac Toe iOS ✖️ 0️⃣"
-date:   2017-02-02
+date:   2018-05-05
 excerpt: "This is your average Tic-Tac-Toe game built in swift, this project was built as part of a in class for a mobile development course. I found this to be a great learning experience on patterns and how to get Swift code to recognize them"
 comments: true
 ---

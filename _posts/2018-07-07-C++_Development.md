@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "C++ Development from A-Z"
-date:   2013-06-06
+date:   2018-07-07
 excerpt: "Turning Your Programming Skills from Amateur to Developer In C++ 💻 "
 project: true
 tag:
