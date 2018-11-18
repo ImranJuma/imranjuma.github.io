@@ -2,13 +2,7 @@
 layout: post
 title:  "iOS Development from A-Z"
 date:   2014-05-05
-excerpt: "Learning The Basics of Making Your own iOS Application 📱 & Writing Code In Swift 🤩 "
-tag:
-- markdown
-- mathjax
-- example
-- test
-- jekyll
+excerpt: "Learning The Basics of Making Your own iOS Application 📱 & Writing Code In Swift 🤩"
 comments: true
 ---
 
@@ -44,5 +38,3 @@ This application will and can run on the following devices.
 ### Press Me
 
 ### Contact Us Page
-
-### Social Media Links

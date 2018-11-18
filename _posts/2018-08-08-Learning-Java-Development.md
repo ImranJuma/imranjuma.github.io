@@ -2,8 +2,7 @@
 layout: post
 title: "Java Development from A-Z"
 date:   2012-07-07
-excerpt: "A ton of text to test readability with image feature."
-tags: [sample post, readability, test, image, feature]
+excerpt: "Leaning Java? Want To Refresh Your Skills? Here's The Perfect Resource 📱 💬"
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
