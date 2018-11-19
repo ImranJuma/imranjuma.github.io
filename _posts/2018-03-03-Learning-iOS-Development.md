@@ -22,7 +22,10 @@ This application will and can run on the following devices.
   * iPhone XS (Most Of The Time)
 	* iPhone SE / 5S / 5C (Most Of The Time)
 
-[View Project](https://github.com/ImranJuma/Learning-iOS){: .btn}
+[View Project(s)](https://github.com/ImranJuma/Learning-iOS){: .btn}
+
+
+### 🔌 Clock Time 🔌
 
 <figure class="third">
 	<img src="http://placehold.it/600x300.jpg">
@@ -31,10 +34,29 @@ This application will and can run on the following devices.
   <figcaption>Sample Pictures From Application.</figcaption>
 </figure>
 
-### 🔌 Clock Time 🔌
-
 ### 🔌 Custom Text Maker 🔌
+
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+  <figcaption>Sample Pictures From Application.</figcaption>
+</figure>
 
 ### 🔌 Press Me 🔌
 
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+  <figcaption>Sample Pictures From Application.</figcaption>
+</figure>
+
 ### 🔌 Contact Us Page 🔌
+
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+  <figcaption>Sample Pictures From Application.</figcaption>
+</figure>
