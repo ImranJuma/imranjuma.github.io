@@ -47,12 +47,12 @@ This application will and can run on the following devices.
 
 [View Project](https://github.com/ImranJuma/JumaChat){: .btn}
 
+
+### iOS Application Pictures 📸
+
 <figure class="third">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
 	<figcaption>Sample Pictures From Application.</figcaption>
 </figure>
-
-
-### iOS Application Pictures 📸
