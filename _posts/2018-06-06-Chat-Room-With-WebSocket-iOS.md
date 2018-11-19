@@ -7,6 +7,9 @@ tags: [sample post, images, test]
 comments: true
 ---
 
+*/ This Page is complete /*
+*/ Needs Pictures Uploaded /*
+
 
 For this project I made a Web Socket Chat Room. This project was for my course COMP 2406, a second year mobile application development course that is taught half the year in iOS (Swift) and half the year in Android Studio (Java). For this assignment we made first a web socket to learn the fundamentals of web development, and then hammered out the mobile application. This project only works on a local host however I particularly enjoyed the design aspect of this project as i got amazing hands on experience developing and designing a mobile app my own way.
 
