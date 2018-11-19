@@ -21,11 +21,11 @@ The following Application was built on Android Studio and Tested on Android Andr
 
 [View Project](https://github.com/ImranJuma/Maze-Project){: .btn}
 
+### iOS Application Pictures 📸 & In Game Pictures 📸
+
 <figure class="third">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
 	<figcaption>Sample Pictures From Application.</figcaption>
 </figure>
-
-### iOS Application Pictures 📸 & In Game Pictures 📸
