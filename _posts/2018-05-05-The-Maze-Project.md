@@ -6,9 +6,6 @@ excerpt: "A simple iOS game that practices maze building and object collisions i
 comments: true
 ---
 
-*/ This Page is complete /*
-*/ Needs Pictures Uploaded /*
-
 This project was developed for my course COMP 2406, a second year mobile application development course that is taught half the year in iOS (Swift) and half the year in Android Studio (Java). For this assignment where instructed to make a maze game that would allow the user to create and solve different kinds of puzzles as well as have different levels within the game.
 The Project is fully available on my <a href="http://github.com/ImranJuma/Maze-Project"><b>GitHub.</b></a> Feel free to download the project and try it out! Below are some screen captures taken from this application.
 
