@@ -10,13 +10,6 @@ This project was specifically curated for a client that wanted their expanding w
 
 [View Project](https://github.com/ImranJuma/EuroStarForiOS){: .btn} [View Client Website](https://www.eurostarwindows.ca){: .btn}
 
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<figcaption>Sample Pictures From Application.</figcaption>
-</figure>
-
 ## ReadMe Information & Deployment Instructions  🛠
 
 The following Application was built on X-Code 9.1 and Tested on iOS 10-11.0.3
@@ -33,6 +26,13 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 
 
 ### iOS Application Pictures 📸
+
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<figcaption>Sample Pictures From Application.</figcaption>
+</figure>
 
 ### Home Screen
 
