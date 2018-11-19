@@ -41,26 +41,3 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 	<img src="http://placehold.it/600x300.jpg">
   <figcaption>Sample Pictures From Application.</figcaption>
 </figure>
-
-### Home Screen
-
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-  <figcaption>Sample Pictures From Application.</figcaption>
-</figure>
-
-### Services Page
-
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-  <figcaption>Sample Pictures From Application.</figcaption>
-</figure>
-
-### Contact Us Page
-
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-  <figcaption>Sample Pictures From Application.</figcaption>
-</figure>
-
-### Social Media Links
