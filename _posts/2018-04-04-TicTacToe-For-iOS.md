@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tic Tac Toe iOS ✖️ 0️⃣"
+title: "Tic Tac Toe iOS ❌ ⭕️"
 date:   2018-04-04
 excerpt: "This is your average Tic-Tac-Toe game built in swift, this project was built as part of a in class for a mobile development course. I found this to be a great learning experience on patterns and how to get Swift code to recognize them"
 comments: true
@@ -8,7 +8,7 @@ comments: true
 
 This unique project was for a Mobile Application Development course I was taking in Winter 2017. This project consisted of me creating an interactive Tic-Tac-Toe game for iOS devices. Working on this project was extremely fun as well as gave me a basic insight into more UX development as well as how to make an interactive game for a mobile device. This was an amazing learning experience. I would recommend building this kind of project to any student looking to expand their Swift knowledge and branch out to make something really cool while learning different pattern recognition within iOS libraries!
 
-## ReadMe Information
+## ReadMe Information & Deployment Instructions 🛠
 
 The following Application was built on X-Code 9.1 and Tested on iOS 10-11.0.3
 This application will and can run on the following devices.
@@ -19,7 +19,7 @@ This application will and can run on the following devices.
 	* iPhone X (Most Of The Time)
 	* iPhone SE / 5S / 5C (Most Of The Time)
 
-## Important Information: 
+## 🔌 Important Information 🔌:
 All files have also been backed up and noted in ReadMe.txt file, however this application will sometimes crash if running on X-Code 9.1 on some Mac devices. Have confirmed it is not the code, and is a result of an X-Code beta. If you are running the X-Code Beta, You Cannot Run My Assignment
 
 ## Here Are Some Reference Links For Building The Project:
@@ -40,7 +40,7 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
   <figcaption>Sample Pictures From Application.</figcaption>
 </figure>
 
-### iOS Application Pictures
+### iOS Application Pictures 📸
 
 ### Home Screen
 

@@ -13,7 +13,7 @@ comments: true
 This project was developed for my course COMP 2406, a second year mobile application development course that is taught half the year in iOS (Swift) and half the year in Android Studio (Java). For this assignment where instructed to make a maze game that would allow the user to create and solve different kinds of puzzles as well as have different levels within the game.
 The Project is fully available on my <a href="http://github.com/ImranJuma/Maze-Project"><b>GitHub.</b></a> Feel free to download the project and try it out! Below are some screen captures taken from this application.
 
-## ReadMe Information & Deployment Instructions
+## ReadMe Information & Deployment Instructions 🛠
 
 The following Application was built on X-Code 9.1 and Tested on iOS 10-11.0.3
 This application will and can run on the following devices.
@@ -60,12 +60,4 @@ This application will and can run on the following devices.
 </figure>
 
 
-### iOS Application Pictures
-
-### Home Screen
-
-### Services Page
-
-### Contact Us Page
-
-### Social Media Links
+### iOS Application Pictures 📸
