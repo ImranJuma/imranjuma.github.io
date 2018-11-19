@@ -33,6 +33,8 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 
 [View Project](https://github.com/ImranJuma/TicTacToeiOS){: .btn}
 
+### iOS Application Pictures 📸
+
 <figure class="third">
 	<img src="http://placehold.it/600x300.jpg">
 	<img src="http://placehold.it/600x300.jpg">
@@ -40,12 +42,25 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
   <figcaption>Sample Pictures From Application.</figcaption>
 </figure>
 
-### iOS Application Pictures 📸
-
 ### Home Screen
+
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+  <figcaption>Sample Pictures From Application.</figcaption>
+</figure>
 
 ### Services Page
 
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+  <figcaption>Sample Pictures From Application.</figcaption>
+</figure>
+
 ### Contact Us Page
+
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+  <figcaption>Sample Pictures From Application.</figcaption>
+</figure>
 
 ### Social Media Links
