@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Maze Game for iOS
+title: Maze Game for iOS 👾 🤖
 date:   2018-05-05
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+excerpt: "A simple iOS game that practices maze building and object collisions in Swift using X-Code"
 tags: [sample post, code, highlighting]
 comments: true
 ---
+
+https://github.com/ImranJuma/Maze-Project
 
 Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
 
