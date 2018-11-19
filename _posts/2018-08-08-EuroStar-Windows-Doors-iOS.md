@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eurostar Windows & Doors iOS Application"
-date:   2018-01-01
+date:   2018-08-08
 excerpt: "A custom made 📱 iOS App supporting iOS 11.2.0 and Greater. This mobile app is for a local custom window business in Ottawa, Ontario, Canada 🇨🇦 "
 comments: true
 ---
