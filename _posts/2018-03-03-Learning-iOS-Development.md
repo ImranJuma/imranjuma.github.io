@@ -31,10 +31,10 @@ This application will and can run on the following devices.
   <figcaption>Sample Pictures From Application.</figcaption>
 </figure>
 
-### Clock Time
+### 🔌 Clock Time 🔌
 
-### Custom Text Maker
+### 🔌 Custom Text Maker 🔌
 
-### Press Me
+### 🔌 Press Me 🔌
 
-### Contact Us Page
+### 🔌 Contact Us Page 🔌
