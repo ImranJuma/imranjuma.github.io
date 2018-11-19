@@ -7,6 +7,8 @@ comments: true
 ---
 */ This Page is complete Needs Pictures Uploaded /*
 
+Test
+
 This project was specifically curated for a client that wanted their expanding window business on a mobile platform, the client requested an iOS application that would demo the different custom products they produced in a Apple friendly application different than their online website. From the clients perspective they wanted all the information from their existing website put inside a mobile application for iOS however with a different UI as well as a more immersive shopping experience. The real challenge here was to integrate so much information into a single mobile app without having the application too cluttered. Through this application, customers can see the different services offered, email the support team directly for order inquires, as well as view different catalogues of products that can be custom made.
 
 [View Project](https://github.com/ImranJuma/EuroStarForiOS){: .btn} [View Client Website](https://www.eurostarwindows.ca){: .btn}
