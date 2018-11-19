@@ -18,7 +18,7 @@ This project was specifically curated for a client that wanted their expanding w
 	<figcaption>Sample Pictures From Application.</figcaption>
 </figure>
 
-## ReadMe Information & Deployment Instructions 🛠
+## ReadMe Information & Deployment Instructions  🛠
 
 The following Application was built on X-Code 9.1 and Tested on iOS 10-11.0.3
 This application will and can run on the following devices.
