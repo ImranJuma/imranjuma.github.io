@@ -35,27 +35,27 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 ### Home Screen
 
 <figure>
-	<img src="/img/Home_Page.png">
-	<figcaption>Application Running Gif.</figcaption>
+	<img src="/img/test.jpg">
+	<figcaption>Caption describing this image.</figcaption>
 </figure>
 
 ### Services Page
 
 <figure>
-	<img src="/img/Services_Page.png">
-	<figcaption>Application Services Page.</figcaption>
+	<img src="/img/test.jpg">
+	<figcaption>Caption describing this image.</figcaption>
 </figure>
 
 ### Contact Us Page
 
 <figure>
-	<img src="/img/Contact_Us.png">
-	<figcaption>Application Contact Us Page, With Built In Navigation, Email Contact, Direct Calling, and Social Media Links.</figcaption>
+	<img src="/img/test.jpg">
+	<figcaption>Caption describing this image.</figcaption>
 </figure>
 
 ### Social Media Links
 
 <figure>
-	<img src="/img/img-1.png">
+	<img src="/img/test.jpg">
 	<figcaption>Caption describing this image.</figcaption>
 </figure>
