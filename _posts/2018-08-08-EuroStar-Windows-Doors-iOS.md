@@ -27,11 +27,9 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 
 ### iOS Application Pictures 📸
 
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-  <figcaption>Sample Pictures From Application.</figcaption>
+<figure>
+	<img src="/img/img-1.png">
+	<figcaption>Caption describing this image.</figcaption>
 </figure>
 
 ### Home Screen
