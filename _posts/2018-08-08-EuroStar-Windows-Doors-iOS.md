@@ -28,7 +28,7 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 ### iOS Application Pictures 📸
 
 <figure>
-	<img src="/img/test.png">
+	<img src="/img/test.jpg">
 	<figcaption>Caption describing this image.</figcaption>
 </figure>
 
