@@ -34,28 +34,28 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 
 ### Home Screen
 
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-  <figcaption>Sample Pictures From Application.</figcaption>
+<figure>
+	<img src="/img/Home_Page.png">
+	<figcaption>Application Running Gif.</figcaption>
 </figure>
 
 ### Services Page
 
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-  <figcaption>Sample Pictures From Application.</figcaption>
+<figure>
+	<img src="/img/Services_Page.png">
+	<figcaption>Application Services Page.</figcaption>
 </figure>
 
 ### Contact Us Page
 
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-  <figcaption>Sample Pictures From Application.</figcaption>
+<figure>
+	<img src="/img/Contact_Us.png">
+	<figcaption>Application Contact Us Page, With Built In Navigation, Email Contact, Direct Calling, and Social Media Links.</figcaption>
 </figure>
 
 ### Social Media Links
 
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-  <figcaption>Sample Pictures From Application.</figcaption>
-</figure
+<figure>
+	<img src="/img/img-1.png">
+	<figcaption>Caption describing this image.</figcaption>
+</figure>
