@@ -32,6 +32,13 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 	<figcaption>Live Gif Of Application Running // TEMP IMAGE.</figcaption>
 </figure>
 
+### Contact Us Page
+
+<figure>
+	<img src="/img/Contact_Us_2.0.png">
+	<figcaption>Contact Us Page Including Live Email Contact, Direct Phone Calling, GPS Integration & Social Media Links.</figcaption>
+</figure>
+
 ### Home Screen
 
 <figure>
@@ -46,16 +53,9 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 	<figcaption>New Services Offered Page.</figcaption>
 </figure>
 
-### Contact Us Page
-
-<figure>
-	<img src="/img/Contact_Us_2.0.png">
-	<figcaption>Contact Us Page Including Live Email Contact, Direct Phone Calling, GPS Integration & Social Media Links.</figcaption>
-</figure>
-
 ### Social Media Links
 
 <figure>
-	<img src="/img/img-1.png">
+	<img src="/img/test.gif">
 	<figcaption>TEMP IMAGE.</figcaption>
 </figure>
