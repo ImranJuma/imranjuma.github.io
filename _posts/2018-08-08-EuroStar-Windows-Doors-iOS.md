@@ -29,14 +29,7 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 
 <figure>
 	<img src="/img/About_Us_2.0.png">
-	<figcaption>Live Gif Of Application Running // TEMP IMAGE.</figcaption>
-</figure>
-
-### Contact Us Page
-
-<figure>
-	<img src="/img/Contact_Us_2.0.png">
-	<figcaption>Contact Us Page Including Live Email Contact, Direct Phone Calling, GPS Integration & Social Media Links.</figcaption>
+	<figcaption>Live Gif Of Application Running.</figcaption>
 </figure>
 
 ### Home Screen
@@ -46,6 +39,13 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 	<figcaption>Home Screen Of Application.</figcaption>
 </figure>
 
+### Contact Us Page
+
+<figure>
+	<img src="/img/Contact_Us_2.0.png">
+	<figcaption>Contact Us Page Including Live Email Contact, Direct Phone Calling, GPS Integration & Social Media Links.</figcaption>
+</figure>
+
 ### Services Page
 
 <figure>
@@ -53,9 +53,16 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 	<figcaption>New Services Offered Page.</figcaption>
 </figure>
 
-### Social Media Links
+### Gif Test
+
+<figure>
+	<img src="/img/Demo.gif">
+	<figcaption>New Services Offered Page.</figcaption>
+</figure>
+
+### Gif Test 2.0
 
 <figure>
 	<img src="/img/test.gif">
-	<figcaption>TEMP IMAGE.</figcaption>
+	<figcaption>New Services Offered Page.</figcaption>
 </figure>
