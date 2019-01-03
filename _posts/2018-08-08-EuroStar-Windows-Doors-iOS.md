@@ -28,7 +28,7 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 ### iOS Application Pictures 📸
 
 <figure>
-	<img src="/img/About_Us_2.0.png">
+	<img src="/img/Demo.gif"">
 	<figcaption>Live Gif Of Application Running.</figcaption>
 </figure>
 
@@ -53,16 +53,9 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 	<figcaption>New Services Offered Page.</figcaption>
 </figure>
 
-### Gif Test
+### About Us Page
 
 <figure>
-	<img src="/img/Demo.gif">
-	<figcaption>New Services Offered Page.</figcaption>
-</figure>
-
-### Gif Test 2.0
-
-<figure>
-	<img src="/img/test.gif">
+	<img src="/img/About_Us_2.0.png">
 	<figcaption>New Services Offered Page.</figcaption>
 </figure>
