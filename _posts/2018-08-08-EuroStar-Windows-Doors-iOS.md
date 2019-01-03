@@ -28,34 +28,34 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 ### iOS Application Pictures 📸
 
 <figure>
-	<img src="/img/Demo.gif">
+	<img src="/assets/img/Demo.gif">
 	<figcaption>Live Gif Of Application Running.</figcaption>
 </figure>
 
 ### Home Screen
 
 <figure>
-	<img src="/img/Home_Page_2.0.png">
+	<img src="/assets/img/Home_Page_2.0.png">
 	<figcaption>Home Screen Of Application.</figcaption>
 </figure>
 
 ### Contact Us Page
 
 <figure>
-	<img src="/img/Contact_Us_2.0.png">
+	<img src="/assets/img/Contact_Us_2.0.png">
 	<figcaption>Contact Us Page Including Live Email Contact, Direct Phone Calling, GPS Integration & Social Media Links.</figcaption>
 </figure>
 
 ### Services Page
 
 <figure>
-	<img src="/img/Services_Page_2.0.png">
+	<img src="/assets/img/Services_Page_2.0.png">
 	<figcaption>Services Offered By Company Page.</figcaption>
 </figure>
 
 ### About Us Page
 
 <figure>
-	<img src="/img/About_Us_2.0.png">
+	<img src="/assets/img/About_Us_2.0.png">
 	<figcaption>A Brief Summary About The Company.</figcaption>
 </figure>
