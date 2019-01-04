@@ -28,7 +28,7 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 ### iOS Application Pictures 📸
 
 <figure>
-	<img src="/assets/img/Demo.gif">
+<img src="/assets/vid/Demo_2.mov">
 	<figcaption>Live Gif Of Application Running.</figcaption>
 </figure>
 
@@ -57,12 +57,5 @@ All files have also been backed up and noted in ReadMe.txt file, however this ap
 
 <figure>
 	<img src="/assets/img/About_Us_2.0.png">
-	<figcaption>A Brief Summary About The Company.</figcaption>
-</figure>
-
-### Video Test
-
-<figure>
-	<img src="/assets/vid/Demo_2.mov">
 	<figcaption>A Brief Summary About The Company.</figcaption>
 </figure>
