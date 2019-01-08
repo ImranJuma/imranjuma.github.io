@@ -22,7 +22,7 @@ Proficiency in:
 ## Work Experience
 
 - Department of National Defense
-##sdnfksdnfkjsnfjdf
+-- UX / UI Developer
 
 
 - Carleton University
