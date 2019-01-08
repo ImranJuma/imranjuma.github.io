@@ -25,4 +25,4 @@ comments: false
 
 <center><a href="https://www.linkedin.com/in/imran-juma-939173129/"><b>Click Here</b></a> to contact me directly on LinkedIn, or click the button below and download my full Resume.</center>
 
-[Resume](https://drive.google.com/file/d/1L0JoOdCcerf6vCfigoD9-TSwB0iEXQ2x/view?usp=sharing){: .btn}
+[Resume](https://drive.google.com/file/d/1pMgzb8YlLdYMvf3GXtvw3ClWREFcc9r9/view?usp=sharing){: .btn}
