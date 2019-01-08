@@ -12,11 +12,25 @@ comments: false
 
 ## Education Experience
 
+Currently = Pursuing B. Sc Computer Science Honours at Carleton University with a focus in Mobile Application Developer & User Experience.
+
+Proficiency in: C++ Development, Swift Development & UX/UI Design Architecture.    
+
 ## Work Experience
+
+#Department of National Defense
+
+#Carleton University
+
+#Friday Labs
 
 ## Publications
 
+#QATrack+
+
 ## Awards
+
+#CuHacking '17
 
 ## Coding Languages By Proficiency
 * X-Code / Swift
