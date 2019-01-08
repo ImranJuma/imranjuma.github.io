@@ -22,26 +22,22 @@ Proficiency in:
 ## Work Experience
 
 - Department of National Defense
-#nfskdfsdkjfdkjhfjs
+##sdnfksdnfkjsnfjdf
+
 
 - Carleton University
-#dnfkjdsnkfjsnjdnjk
 
 - Friday Labs
-#sdnfksdnfkjsnfjdf
 
 ## Publications
 
 - QATrack+
-#mndfksjnkjfnsdjdsf
 
 ## Awards
 
 - CuHacking '17
-#jsdnfjkdnfjfnskdjf
 
 - Scholarship
-nkdjsfksdfjkkjdnf
 
 ## Coding Languages By Proficiency
 * X-Code / Swift
