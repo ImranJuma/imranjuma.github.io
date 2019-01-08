@@ -22,23 +22,23 @@ Proficiency in:
 ## Work Experience
 
 - Department of National Defense
-nfskdfsdkjfdkjhfjs
+#nfskdfsdkjfdkjhfjs
 
 - Carleton University
-dnfkjdsnkfjsnjdnjk
+#dnfkjdsnkfjsnjdnjk
 
 - Friday Labs
-sdnfksdnfkjsnfjdf
+#sdnfksdnfkjsnfjdf
 
 ## Publications
 
 - QATrack+
-mndfksjnkjfnsdjdsf
+#mndfksjnkjfnsdjdsf
 
 ## Awards
 
 - CuHacking '17
-jsdnfjkdnfjfnskdjf
+#jsdnfjkdnfjfnskdjf
 
 - Scholarship
 nkdjsfksdfjkkjdnf
