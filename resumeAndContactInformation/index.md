@@ -14,7 +14,10 @@ comments: false
 
 Currently Pursuing B. Sc Computer Science Honours at Carleton University with a focus in Mobile Application Developer & User Experience.
 
-Proficiency in: C++ Development, Swift Development & UX/UI Design Architecture.    
+Proficiency in:
+- C++ Development
+- Swift Development
+- UX/UI Design Architecture.    
 
 ## Work Experience
 
