@@ -21,13 +21,24 @@ Proficiency in:
 
 ## Work Experience
 
+#2019
+
 - Department of National Defense
 -- UX / UI Developer
 
-
 - Carleton University
+-- IT Analysts
+
+#2018
 
 - Friday Labs
+-- iOS Developer / UX Developer
+
+#2017
+- The Ottawa Hospital
+-- Python Developer
+
+
 
 ## Publications
 
