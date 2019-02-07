@@ -20,9 +20,5 @@
 
 ![About Me](https://user-images.githubusercontent.com/11394864/52384647-64e32680-2a4c-11e9-85e6-e4702de946b3.png)
 
-See a [Live Version of Website](https://imranjuma.github.io) hosted on GitHub.
-
 ## Use This Theme 
-* To learn how to install and use this theme check out the [Setup Guide](https://imranjuma.github.io) for more information.
-
-
+See a [Live Version of Website](https://imranjuma.github.io) hosted on GitHub & GoDaddy.
