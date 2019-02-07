@@ -14,7 +14,11 @@
 
 ## Preview
 
-![Screenshot of HomePage](https://user-images.githubusercontent.com/11394864/52384207-77f4f700-2a4a-11e9-8faf-c6c20438a582.png)
+![HomePage](https://user-images.githubusercontent.com/11394864/52384207-77f4f700-2a4a-11e9-8faf-c6c20438a582.png)
+
+![Resumé' & Contact Info](https://user-images.githubusercontent.com/11394864/52384620-48df8500-2a4c-11e9-9001-cb86925dcac2.png)
+
+![About Me](https://user-images.githubusercontent.com/11394864/52384647-64e32680-2a4c-11e9-85e6-e4702de946b3.png)
 
 See a [Live Version of Website](https://imranjuma.github.io) hosted on GitHub.
 
