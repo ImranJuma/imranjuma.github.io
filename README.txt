@@ -14,7 +14,9 @@
 
 ## Preview
 
-See a [live version of Moon](https://imranjuma.github.io) hosted on GitHub.
+![Screenshot of HomePage](https://user-images.githubusercontent.com/11394864/52384207-77f4f700-2a4a-11e9-8faf-c6c20438a582.png)
+
+See a [Live Version of Website](https://imranjuma.github.io) hosted on GitHub.
 
 ## Use This Theme 
 * To learn how to install and use this theme check out the [Setup Guide](https://imranjuma.github.io) for more information.
