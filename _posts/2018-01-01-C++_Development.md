@@ -5,8 +5,14 @@ date:   2018-01-01
 excerpt: "Learning The Basics of Making Your own C++ Program & Writing Code In C++ 🖥 🛠"
 comments: true
 ---
-# 🔌 This Page Is Still In Development 🔌
 
-Have you ever wondered how to write code in Swift? Curious how what tools and skills you need to make iOS Apps? Follow this project on my journey to making cool apps and learning different tools. As well, if your interested in taking this course yourself, check out the link <a href="https://www.udemy.com/ios-11-xcode-9-swift-4/"><b>Here.</b></a> Feel free to download the project and try it out! Below are some screen captures taken from this project.
+### Welcome To My Course
 
-[View Project(s)](https://github.com/ImranJuma/Learning-iOS){: .btn}
+<figure>
+	<img src="/assets/img/CPlusPlus_Code.png">
+	<figcaption>Home Screen Of Application.</figcaption>
+</figure>
+
+Have you ever wondered how to write code in C++? Curious how what tools and skills you need to make Development Application? Follow this project on my journey to making learning C++ for both school project and even some personal projects in the future! As well, if your interested in taking this course yourself, check out the link <a href="https://www.udemy.com/beginning-c-plus-plus-programming/"><b>Here.</b></a> Feel free to download the project and try it out!
+
+[View Project(s)](https://github.com/ImranJuma/CPlusPlus-Development-Course){: .btn}
