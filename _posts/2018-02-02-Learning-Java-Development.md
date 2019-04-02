@@ -8,7 +8,7 @@ comments: true
 ---
 ---
 
-### Welcome To My Course
+### Welcome To Java Programming, From Beginner To Professional 
 
 <figure>
 	<img src="Java_Demo_Image.png.png">

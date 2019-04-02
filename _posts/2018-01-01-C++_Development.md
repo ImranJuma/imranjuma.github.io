@@ -6,7 +6,7 @@ excerpt: "Learning The Basics of Making Your own C++ Program & Writing Code In C
 comments: true
 ---
 
-### Welcome To My Course
+### Welcome To Learning C++
 
 <figure>
 	<img src="/assets/img/CPlusPlus_Code.png">
