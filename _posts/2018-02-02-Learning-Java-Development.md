@@ -19,4 +19,4 @@ Have you ever wondered how to write code in Java? Curious how what tools and ski
 
 As well, if your interested in taking this course yourself, check out the link <a href="https://www.udemy.com/java-the-complete-java-developer-course/"><b>Here.</b></a> Feel free to download the project and try it out!
 
-[View Project(s)](https://github.com/ImranJuma/Java-Development-Course){: .btn}
+[View My Course Content](https://github.com/ImranJuma/Java-Development-Course){: .btn}

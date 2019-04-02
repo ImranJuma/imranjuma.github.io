@@ -18,4 +18,4 @@ Have you ever wondered how to write code in C++? Curious how what tools and skil
 
 As well, if your interested in taking this course yourself, check out the link <a href="https://www.udemy.com/beginning-c-plus-plus-programming/"><b>Here.</b></a> Feel free to download the project and try it out!
 
-[View Project(s)](https://github.com/ImranJuma/CPlusPlus-Development-Course){: .btn}
+[View My Course Content](https://github.com/ImranJuma/CPlusPlus-Development-Course){: .btn}
