@@ -8,8 +8,13 @@ comments: true
 ---
 ---
 
-# 🔌 This Page Is Still In Development 🔌
+### Welcome To My Course
 
-Have you ever wondered how to write code in Swift? Curious how what tools and skills you need to make iOS Apps? Follow this project on my journey to making cool apps and learning different tools. As well, if your interested in taking this course yourself, check out the link <a href="https://www.udemy.com/ios-11-xcode-9-swift-4/"><b>Here.</b></a> Feel free to download the project and try it out! Below are some screen captures taken from this project.
+<figure>
+	<img src="Java_Demo_Image.png.png">
+	<figcaption>Just Some Java Code .. Nothing Fancy **Insert Emojie Here**.</figcaption>
+</figure>
 
-[View Project(s)](https://github.com/ImranJuma/Learning-iOS){: .btn}
+Have you ever wondered how to write code in Java? Curious how what tools and skills you need to make Development Application? Follow this project on my journey to making learning Java for both school project and even some personal projects in the future! As well, if your interested in taking this course yourself, check out the link <a href="https://www.udemy.com/java-the-complete-java-developer-course/"><b>Here.</b></a> Feel free to download the project and try it out!
+
+[View Project(s)](https://github.com/ImranJuma/Java-Development-Course){: .btn}
