@@ -11,12 +11,14 @@ comments: true
 
 <figure>
 	<img src="Java_Demo_Image.png">
-	<figcaption>Just Some Java Code .. Nothing Fancy **Insert Emojie Here**.</figcaption>
+	<figcaption>🛠 Here's Some Sample Code 🔌.</figcaption>
 </figure>
 
 Have you ever wondered how to write code in Java? Curious how what tools and skills you need to make Development Application? Follow this project on my journey to making learning Java for both school project and even some personal projects in the future!
 
 
-As well, if your interested in taking this course yourself, check out the link <a href="https://www.udemy.com/java-the-complete-java-developer-course/"><b>Here.</b></a> Feel free to download the project and try it out!
+As well, if your interested in taking this course yourself, check out the link <a href="https://www.udemy.com/java-the-complete-java-developer-course/"><b>Here.</b></a>
+
+Feel free to download the project and try it out!
 
 [View My Course Content](https://github.com/ImranJuma/Java-Development-Course){: .btn}
