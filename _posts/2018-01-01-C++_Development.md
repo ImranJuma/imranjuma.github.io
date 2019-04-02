@@ -2,7 +2,7 @@
 layout: post
 title:  "C++ Development from A-Z"
 date:   2018-01-01
-excerpt: "Learning The Basics of Making Your own C++ Program Application & Writing Code In C++ 🖥 🛠"
+excerpt: "Learning The Basics of Making Your own C++ Program & Writing Code In C++ 🖥 🛠"
 comments: true
 ---
 # 🔌 This Page Is Still In Development 🔌
