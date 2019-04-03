@@ -37,12 +37,13 @@ disqus_shortname:   imranjuma
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:             info@imranjuma.com
 
+email:             info@imranjuma.com
+linkedin:          imranjuma
 stackoverflow:     10593603/imran-juma  # from a "http://stackoverflow.com/users/123456/username" link
 facebook:           imranjuma
 github-url:         imranjuma
-linkedin:          imranjuma
+
 #twitter:            imranjuma49
 #instagram:          imranjuma
 #xing:              username
