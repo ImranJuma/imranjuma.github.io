@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Online_Courses_&_Bootcamps/
 title: "Java Development from A-Z"
 date:   2018-02-02
 excerpt: "Leaning Java? Want To Refresh Your Skills? Here's The Perfect Resource 📱 💬"

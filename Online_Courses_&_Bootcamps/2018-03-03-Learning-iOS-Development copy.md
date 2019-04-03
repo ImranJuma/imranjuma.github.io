@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Online_Courses_&_Bootcamps/
 title:  "iOS Development from A-Z"
 date:   2018-03-03
 excerpt: "Learning The Basics of Making Your own iOS Application 📱 & Writing Code In Swift 🤩"
