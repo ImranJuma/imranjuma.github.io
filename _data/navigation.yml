@@ -1,4 +1,19 @@
 # Site navigation links
 
-- title: Projects
+- title: Home
+  url: /
+
+- title: About Me
+  url: /about/
+
+- title: Personal Projects
+  url: /posts/
+
+- title: UX / UI Portfolio
   url: /projects/
+
+- title: Resume & Contact Information
+  url: /resumeAndContactInformation/
+
+- title: Online Courses & Bootcamps
+  url: /Online_Courses_&_Bootcamps/
