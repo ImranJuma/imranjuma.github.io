@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
+title: Welcome To My Portfolio
 excerpt: "A List of Projects"
 comments: true
 ---
