@@ -15,9 +15,11 @@ comments: false
 Currently Pursuing B. Sc Computer Science Honours at Carleton University with a focus in Mobile Application Developer & User Experience.
 
 Proficiency in:
-- C++ Development
-- Swift Development
-- UX/UI Design Architecture.    
+- Alteryx -- (Big Data & Data Analytics)
+- C++ Development -- (Software Development)
+- Java Development -- (Software Development)
+- Swift Development -- (Mobile Development)
+- UX/UI Design Architecture -- (Product Development)    
 
 ## Work Experience
 
@@ -46,9 +48,6 @@ Proficiency in:
 - 2018 - 2019 CuHacking Design Team @ Carleton University
 - 2017 - 2018 CuHacking Web Developer  @ Carleton University
 
-
-
-
 ## Publications
 
 - QATrack+
@@ -60,7 +59,7 @@ Proficiency in:
 - Scholarship
 
 ## Coding Languages By Proficiency
-* Alteryx (Big Data & Data Analytics )
+* Alteryx (Big Data & Data Analytics)
 * X-Code / Swift (Mobile Development)
 * Java for Android Studio (Mobile Development)
 * Java (Software Development)
