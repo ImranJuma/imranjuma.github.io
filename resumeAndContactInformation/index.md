@@ -60,16 +60,19 @@ Proficiency in:
 - Scholarship
 
 ## Coding Languages By Proficiency
-* X-Code / Swift
-* Java for Android Studio
-* Java
-* C
-* C++
-* Jekyll
-* Adobe XD
-* Adobe Photoshop
-* Adobe Lightroom
-* Sketch
+* Alteryx (Big Data & Data Analytics )
+* X-Code / Swift (Mobile Development)
+* Java for Android Studio (Mobile Development)
+* Java (Software Development)
+* C++ (Software Development)
+* C (Educational)
+* Jekyll (Web Development)
+* HTML (Web Development)
+* CSS (Web Development)
+* Adobe XD (UX & UI Design)
+* Adobe Photoshop (UX & UI Design // Personal Passion)
+* Adobe Lightroom (UX & UI Design // Personal Passion)
+* Sketch (UX & UI Design // Personal Passion)
 
 ## Contact Information
 
