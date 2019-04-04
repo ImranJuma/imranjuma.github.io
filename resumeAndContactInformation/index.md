@@ -14,7 +14,7 @@ comments: false
 
 Currently Pursuing B. Sc Computer Science Honours at Carleton University with a focus in Mobile Application Developer & User Experience.
 
-Proficiency in:
+Proficiency In:
 - Alteryx -- (Big Data & Data Analytics)
 - C++ Development -- (Software Development)
 - Java Development -- (Software Development)
