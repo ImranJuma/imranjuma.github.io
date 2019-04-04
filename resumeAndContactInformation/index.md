@@ -23,20 +23,30 @@ Proficiency in:
 
 #2019
 
+- CIBC
+-- Software Developer (May - Aug)
+
 - Department of National Defense
--- UX / UI Developer
+-- UX & UI Developer / Data Scientist (Jan - Apr CO-OP)
 
 - Carleton University
--- IT Analysts
+-- IT Analysts (Sept '18 - Apr '19')
 
 #2018
 
 - Friday Labs
--- iOS Developer / UX Developer
+-- iOS Developer / UX Developer (May - Aug CO-OP)
 
 #2017
 - The Ottawa Hospital
--- Python Developer
+-- Python Developer (Sept '16 - Sept '17 CO-OP )
+
+## Titles
+
+- 2019 - 2020 CuHacking CoLead @ Carleton University
+- 2018 - 2019 CuHacking Design Team @ Carleton University
+- 2017 - 2018 CuHacking Web Developer  @ Carleton University 
+
 
 
 
@@ -46,7 +56,7 @@ Proficiency in:
 
 ## Awards
 
-- CuHacking '17
+- CuHacking '17 -- Best Hack
 
 - Scholarship
 
