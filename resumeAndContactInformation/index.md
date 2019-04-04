@@ -27,7 +27,7 @@ Proficiency in:
 
 - CIBC
 -- Software Developer
-   (May - Aug)
+   (May - Aug CO-OP)
 
 - Department of National Defense
 -- UX & UI Developer / Data Scientist
