@@ -6,8 +6,10 @@ date: 2016-03-21
 comments: false
 ---
 
+<center>TESTING UX // UI Portfolio Page  </center>
+
 <figure>
-	<img src="About_Me.png">
+	<img src="/assets/img/About_Me.png">
 	<figcaption>🛠 CuHacking 2017 @ Carleton University 🇨🇦 .</figcaption>
 </figure>
 
