@@ -6,8 +6,6 @@ date: 2016-03-21
 comments: false
 ---
 
-<center>TESTING RESUME AND CONTACT PAGE</center>
-
 <figure>
 	<img src="/assets/img/About_Me.png">
 	<figcaption>🛠 CuHacking 2017 @ Carleton University 🇨🇦 .</figcaption>
