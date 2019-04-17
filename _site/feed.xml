@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://imranjuma.github.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://imranjuma.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://imranjuma.github.io/" rel="alternate" type="text/html" /><updated>2019-04-16T20:57:32-04:00</updated><id>https://imranjuma.github.io/</id><title type="html">Imran Gabrani-Juma</title><subtitle>Here's Some Helpful Links To Navigate The Site!</subtitle><entry><title type="html">Eurostar Windows &amp;amp; Doors iOS Application</title><link href="https://imranjuma.github.io/EuroStar-Windows-Doors-iOS/" rel="alternate" type="text/html" title="Eurostar Windows &amp; Doors iOS Application" /><published>2018-08-08T00:00:00-04:00</published><updated>2018-08-08T00:00:00-04:00</updated><id>https://imranjuma.github.io/EuroStar-Windows-Doors-iOS</id><content type="html" xml:base="https://imranjuma.github.io/EuroStar-Windows-Doors-iOS/">&lt;p&gt;This project was specifically curated for a client that wanted their expanding window business on a mobile platform, the client requested an iOS application that would demo the different custom products they produced in a Apple friendly application different than their online website. From the clients perspective they wanted all the information from their existing website put inside a mobile application for iOS however with a different UI as well as a more immersive shopping experience. The real challenge here was to integrate so much information into a single mobile app without having the application too cluttered. Through this application, customers can see the different services offered, email the support team directly for order inquires, as well as view different catalogues of products that can be custom made.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://imranjuma.github.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://imranjuma.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://imranjuma.github.io/" rel="alternate" type="text/html" /><updated>2019-04-16T21:35:38-04:00</updated><id>https://imranjuma.github.io/</id><title type="html">Imran Gabrani-Juma</title><subtitle>Here's Some Helpful Links To Navigate The Site!</subtitle><entry><title type="html">Eurostar Windows &amp;amp; Doors iOS Application</title><link href="https://imranjuma.github.io/EuroStar-Windows-Doors-iOS/" rel="alternate" type="text/html" title="Eurostar Windows &amp; Doors iOS Application" /><published>2018-08-08T00:00:00-04:00</published><updated>2018-08-08T00:00:00-04:00</updated><id>https://imranjuma.github.io/EuroStar-Windows-Doors-iOS</id><content type="html" xml:base="https://imranjuma.github.io/EuroStar-Windows-Doors-iOS/">&lt;p&gt;This project was specifically curated for a client that wanted their expanding window business on a mobile platform, the client requested an iOS application that would demo the different custom products they produced in a Apple friendly application different than their online website. From the clients perspective they wanted all the information from their existing website put inside a mobile application for iOS however with a different UI as well as a more immersive shopping experience. The real challenge here was to integrate so much information into a single mobile app without having the application too cluttered. Through this application, customers can see the different services offered, email the support team directly for order inquires, as well as view different catalogues of products that can be custom made.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/ImranJuma/EuroStarForiOS&quot; class=&quot;btn&quot;&gt;View Project&lt;/a&gt; &lt;a href=&quot;https://www.eurostarwindows.com&quot; class=&quot;btn&quot;&gt;View Client Website&lt;/a&gt;&lt;/p&gt;
 
@@ -200,79 +200,4 @@ This application will and can run on the following devices.&lt;/p&gt;
 	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
 	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
   &lt;figcaption&gt;Sample Pictures From Application.&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">This is your average Tic-Tac-Toe game built in swift, this project was built as part of a in class for a mobile development course. I found this to be a great learning experience on patterns and how to get Swift code to recognize them</summary></entry><entry><title type="html">iOS Development from A-Z</title><link href="https://imranjuma.github.io/Learning-iOS-Development/" rel="alternate" type="text/html" title="iOS Development from A-Z" /><published>2018-03-03T00:00:00-05:00</published><updated>2018-03-03T00:00:00-05:00</updated><id>https://imranjuma.github.io/Learning-iOS-Development</id><content type="html" xml:base="https://imranjuma.github.io/Learning-iOS-Development/">&lt;p&gt;Have you ever wondered how to write code in Swift? Curious how what tools and skills you need to make iOS Apps? Follow this project on my journey to making cool apps and learning different tools. As well, if your interested in taking this course yourself, check out the link &lt;a href=&quot;https://www.udemy.com/ios-11-xcode-9-swift-4/&quot;&gt;&lt;b&gt;Here.&lt;/b&gt;&lt;/a&gt; Feel free to download the project and try it out! Below are some screen captures taken from this project.&lt;/p&gt;
-
-&lt;p&gt;The following Application(s) where built on X-Code 9.1 and Tested on iOS 10-11.0.3
-This application will and can run on the following devices.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* iPhone 6   * iPhone 6s   * iPhone 6s + (Some Size Reformat Needed)
-* iPhone 7   * iPhone 7 + (Some Size Reformat Needed)
-* iPhone 8   * iPhone 8 + (Some Size Reformat Needed)
-* iPhone X (Most Of The Time)   * iPhone XS (Most Of The Time)
-* iPhone SE / 5S / 5C (Most Of The Time)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/ImranJuma/Learning-iOS&quot; class=&quot;btn&quot;&gt;View Project(s)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;-clock-time-&quot;&gt;🔌 Clock Time 🔌&lt;/h3&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-  &lt;figcaption&gt;Sample Pictures From Application.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;-custom-text-maker-&quot;&gt;🔌 Custom Text Maker 🔌&lt;/h3&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-  &lt;figcaption&gt;Sample Pictures From Application.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;-press-me-&quot;&gt;🔌 Press Me 🔌&lt;/h3&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-  &lt;figcaption&gt;Sample Pictures From Application.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;-contact-us-page-&quot;&gt;🔌 Contact Us Page 🔌&lt;/h3&gt;
-
-&lt;figure class=&quot;third&quot;&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
-  &lt;figcaption&gt;Sample Pictures From Application.&lt;/figcaption&gt;
-&lt;/figure&gt;</content><summary type="html">Learning The Basics of Making Your own iOS Application 📱 &amp; Writing Code In Swift 🤩</summary></entry><entry><title type="html">Java Development from A-Z</title><link href="https://imranjuma.github.io/Learning-Java-Development/" rel="alternate" type="text/html" title="Java Development from A-Z" /><published>2018-02-02T00:00:00-05:00</published><updated>2018-02-02T00:00:00-05:00</updated><id>https://imranjuma.github.io/Learning-Java-Development</id><content type="html" xml:base="https://imranjuma.github.io/Learning-Java-Development/">&lt;h3 id=&quot;welcome-to-java-programming-from-beginner-to-professional&quot;&gt;Welcome To Java Programming, From Beginner To Professional&lt;/h3&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;Java_Demo_Image.png&quot; /&gt;
-	&lt;figcaption&gt;🛠 Here's Some Sample Code 🔌.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Have you ever wondered how to write code in Java? Curious how what tools and skills you need to make Development Application? Follow this project on my journey to making learning Java for both school project and even some personal projects in the future!&lt;/p&gt;
-
-&lt;p&gt;As well, if your interested in taking this course yourself, check out the link &lt;a href=&quot;https://www.udemy.com/java-the-complete-java-developer-course/&quot;&gt;&lt;b&gt;Here.&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Feel free to download the project and try it out!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/ImranJuma/Java-Development-Course&quot; class=&quot;btn&quot;&gt;View My Course Content&lt;/a&gt;&lt;/p&gt;</content><summary type="html">Leaning Java? Want To Refresh Your Skills? Here's The Perfect Resource 📱 💬</summary></entry><entry><title type="html">C++ Development from A-Z</title><link href="https://imranjuma.github.io/C++_Development/" rel="alternate" type="text/html" title="C++ Development from A-Z" /><published>2018-01-01T00:00:00-05:00</published><updated>2018-01-01T00:00:00-05:00</updated><id>https://imranjuma.github.io/C++_Development</id><content type="html" xml:base="https://imranjuma.github.io/C++_Development/">&lt;h3 id=&quot;welcome-to-learning-c-from-beginner-to-professional&quot;&gt;Welcome To Learning C++, From Beginner To Professional&lt;/h3&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/assets/img/CPlusPlus_Code.png&quot; /&gt;
-	&lt;figcaption&gt;🛠 Here's Some Sample Code 🔌.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Have you ever wondered how to write code in C++? Curious how what tools and skills you need to make Development Application? Follow this project on my journey to making learning C++ for both school project and even some personal projects in the future!&lt;/p&gt;
-
-&lt;p&gt;As well, if your interested in taking this course yourself, check out the link &lt;a href=&quot;https://www.udemy.com/beginning-c-plus-plus-programming/&quot;&gt;&lt;b&gt;Here.&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Feel free to download the project and try it out!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/ImranJuma/CPlusPlus-Development-Course&quot; class=&quot;btn&quot;&gt;View My Course Content&lt;/a&gt;&lt;/p&gt;</content><summary type="html">Learning The Basics of Making Your own C++ Program &amp; Writing Code In C++ 🖥 🛠</summary></entry></feed>
+&lt;/figure&gt;</content><summary type="html">This is your average Tic-Tac-Toe game built in swift, this project was built as part of a in class for a mobile development course. I found this to be a great learning experience on patterns and how to get Swift code to recognize them</summary></entry></feed>
