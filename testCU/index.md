@@ -1,58 +1,62 @@
----
-layout: post
-title: "Chat Room with WebSocket for iOS"
-date:   2018-06-06
-excerpt: "A 💻 Web Socket & iOS Application 📱 All In One 🆒 💬"
-comments: true
+w---
+layout: page
+title: About Imran Gabrani-Juma & How To Get In Touch
+tags: [about, Jekyll, theme, moon]
+date: 2016-03-21
+comments: false
 ---
 
-For this project I made a Web Socket Chat Room. This project was for my course COMP 2406, a second year mobile application development course that is taught half the year in iOS (Swift) and half the year in Android Studio (Java). For this assignment we made first a web socket to learn the fundamentals of web development, and then hammered out the mobile application. This project only works on a local host however I particularly enjoyed the design aspect of this project as i got amazing hands on experience developing and designing a mobile app my own way.
+This project was specifically curated for a client that wanted their expanding window business on a mobile platform, the client requested an iOS application that would demo the different custom products they produced in a Apple friendly application different than their online website. From the clients perspective they wanted all the information from their existing website put inside a mobile application for iOS however with a different UI as well as a more immersive shopping experience. The real challenge here was to integrate so much information into a single mobile app without having the application too cluttered. Through this application, customers can see the different services offered, email the support team directly for order inquires, as well as view different catalogues of products that can be custom made.
 
-## ReadMe Information & Deployment Instructions 🛠
+[View To Files](https://github.com/ImranJuma/Carleton-University){: .btn}
+[Link To Carleton Program](https://admissions.carleton.ca/programs/computer-science/){: .btn}
+
+## ReadMe Information & Deployment Instructions  🛠
 
 The following Application was built on X-Code 9.1 and Tested on iOS 10-11.0.3
 This application will and can run on the following devices.
 
-	* CD project location in terminal
-	* CD Chat Server Nodejs with WebSockets -> You'll Have To Change Name To Something Without Spaces
-	* Type "node app.js" This will run the server
-	* Run X-Code Projects
-	* Hit Connect To Server
-	* Enjoy Application
+	* iPhone 6
+	* iPhone 7
+	* iPhone 8
+	* iPhone X (Most Of The Time)
+	* iPhone SE / 5S / 5C (Most Of The Time)
 
-# Implementation Techniques
-
-### Functionality Adaptations
-
-* UIAlert For Connection
-* UIAlert For Disconnection
-
-### Page Adaptations
-* UILaunchScreen Page Added
-* UIInstructions Page Added
-* UIExit Page Added
-* UIMainMenu Page Added
-
-### Button Adaptations
-* UIConnect Button Modified
-* UIDisconnect Button Modified
-* UISend Button Modified
-* UIChatBubbles
-
-# Resources Used For Development
-
-* <a href="https://www.raywenderlich.com/143874/websockets-ios-starscream"><b>Reference 1</b></a> This resource on different kinds of application tools
-
-* <a href="https://github.com/daltoniam/Starscream"><b>Reference 2</b></a> Great documentation on how to keep the code clean and organized, I found it very helpful during the building process of my application
-
-[View Project](https://github.com/ImranJuma/JumaChat){: .btn}
+## 🔌  Important Information   🔌
+All files have also been backed up and noted in ReadMe.txt file, however this application will sometimes crash if running on X-Code 9.1 on some Mac devices. Have confirmed it is not the code, and is a result of an X-Code beta. If you are running the X-Code Beta, You Cannot Run My Assignment
 
 
 ### iOS Application Pictures 📸
 
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<figcaption>Sample Pictures From Application.</figcaption>
+<figure>
+<img src="/assets/vid/Demo_2.mov">
+	<figcaption>Live Gif Of Application Running.</figcaption>
+</figure>
+
+### Home Screen
+
+<figure>
+	<img src="/assets/img/Home_Page_2.0.png">
+	<figcaption>Home Screen Of Application.</figcaption>
+</figure>
+
+### Contact Us Page
+
+<figure>
+	<img src="/assets/img/Contact_Us_2.0.png">
+	<figcaption>Contact Us Page Including Live Email Contact, Direct Phone Calling, GPS Integration & Social Media Links.</figcaption>
+</figure>
+
+### Services Page
+
+<figure>
+	<img src="/assets/img/Services_Page_2.0.png">
+	<figcaption>Services Offered By Company Page.</figcaption>
+</figure>
+
+### About Us Page
+
+<figure>
+	<img src="/assets/img/About_Us_2.0.png">
+	<figcaption>A Brief Summary About The Company.</figcaption>
 </figure>
