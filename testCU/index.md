@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Carleton University CS & Course Content
+title: About Carleton University CS Degree & Course Content
 comments: false
 ---
 
@@ -9,7 +9,7 @@ comments: false
 	<figcaption>Carleton Univeristy</figcaption>
 </figure>
 
-Welcome to the page all about my CS (Computer Science) Degree BSc Computer Science Honours. Here, at Carleton University's Computer Science Program, I've learnt: 
+Welcome to the page all about my CS (Computer Science) Degree BSc Computer Science Honours. Here, at Carleton University's Computer Science Program, I've learnt:
 
 - C++
 - Java
