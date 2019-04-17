@@ -21,7 +21,6 @@ This page contains all the course work, final exams, and review's I’ve created
 
 ## Specific Course Link 📚 📖
 
-[Link button](http://example.com/){: .btn .btn-purple }
 [COMP 1405](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-1405){: .btn .btn-blue}
 [COMP 1406](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-1406){: .btn .btn-blue}
 [COMP 1601](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-1601){: .btn .btn-blue}
