@@ -74,10 +74,10 @@ Proficiency In:
 * Adobe Lightroom (UX & UI Design // Personal Passion)
 * Sketch (UX & UI Design // Personal Passion)
 
-## Contact Information
+## Resume Information
 
 <center><a href="https://www.linkedin.com/in/imran-juma-939173129/"><b>Click Here</b></a> to contact me directly on LinkedIn, or click the button below and download & view my full Resume.</center>
 
-[View Resume](https://imranjuma.com/downloadableAssets/Imran_Gabrani_Juma.pdf){: .btn}
+[View Resume In New Tab](https://imranjuma.com/downloadableAssets/Imran_Gabrani_Juma.pdf){: .btn}
 
-[Download Resume]({{https://imranjuma.com/about/}}/downloadableAssets/Imran_Gabrani_Juma.pdf)
+[Direct Download Resume]({https://imranjuma.com/about/}/downloadableAssets/Imran_Gabrani_Juma.pdf){: .btn}
