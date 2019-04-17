@@ -23,7 +23,7 @@ This page contains all the course work, final exams, and review's I’ve created
 [View All Files](https://github.com/ImranJuma/Carleton-University){: .btn .btn-purple }
 [Link To Carleton Program](https://admissions.carleton.ca/programs/computer-science/){: .btn .btn-purple }
 
-## Specific Course Link 📚 📖
+## Specific Course Content By Course 📚 📖
 
 [COMP 1405](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-1405){: .btn .btn-blue }
 [COMP 1406](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-1406){: .btn .btn-blue}
@@ -40,7 +40,7 @@ This page contains all the course work, final exams, and review's I’ve created
 
 ## Courses Coming Soon 💡
 - COMP 3004
--	COMP 3007
+- COMP 3007
 - COMP 3804
 - 4th Year Courses
 - Honours Project
