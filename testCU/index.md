@@ -6,6 +6,11 @@ date: 2016-03-21
 comments: false
 ---
 
+<figure class="first">
+<img src="/assets/img/CarletonU.jpg.png">
+<figcaption>Carleton Univeristy x Imran Gabrani-Juma.</figcaption>
+</figure>
+
 Welcome to the page all about my CS (Computer Science) Degree BSc Computer Science Honours. Here, at Carleton University's Computer Science Program, I've learnt C++, Java, Java Script, HTML and Much More!
 
 Carleton's CS Program is defiantly one that I would recommend however as always there's tons of independent learning you can do on the side, check out the Boot Camps Page to learn more about those.
