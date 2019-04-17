@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Carleton University CS & Course Content
+comments: false
 ---
 
 <figure class="first">
