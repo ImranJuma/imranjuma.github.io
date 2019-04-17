@@ -5,7 +5,7 @@ title: About Carleton University CS & Course Content
 
 <figure class="first">
 <img src="/assets/img/CarletonU.jpg">
-<figcaption>Carleton Univeristy x Imran Gabrani-Juma.</figcaption>
+<figcaption>Carleton Univeristy>
 </figure>
 
 Welcome to the page all about my CS (Computer Science) Degree BSc Computer Science Honours. Here, at Carleton University's Computer Science Program, I've learnt C++, Java, Java Script, HTML and Much More!
