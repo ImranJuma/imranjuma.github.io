@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-	<img src="/assets/img/About_Me.png = 100x100">
+	<img src="/assets/img/About_Me.png" = 100x100>
 	<figcaption>🛠 CuHacking 2017 @ Carleton University 🇨🇦 .</figcaption>
 </figure>
 
