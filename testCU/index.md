@@ -6,57 +6,33 @@ date: 2016-03-21
 comments: false
 ---
 
-This project was specifically curated for a client that wanted their expanding window business on a mobile platform, the client requested an iOS application that would demo the different custom products they produced in a Apple friendly application different than their online website. From the clients perspective they wanted all the information from their existing website put inside a mobile application for iOS however with a different UI as well as a more immersive shopping experience. The real challenge here was to integrate so much information into a single mobile app without having the application too cluttered. Through this application, customers can see the different services offered, email the support team directly for order inquires, as well as view different catalogues of products that can be custom made.
+Welcome to the page all about my CS (Computer Science) Degree BSc Computer Science Honours. Here, at Carleton University's Computer Science Program, I've learnt C++, Java, Java Script, HTML and Much More!
 
-[View To Files](https://github.com/ImranJuma/Carleton-University){: .btn}
+Carleton's CS Program is defiantly one that I would recommend however as always there's tons of independent learning you can do on the side, check out the Boot Camps Page to learn more about those.
+
+This page contains all the course work, final exams, and review's I’ve created, and collected over my time at Carleton. Feel free to brows the collection. As Always, use this content as a study resource to help you excel in your study and please don’t plagiarize my assignments / course work. As always, If you have any questions, please feel free to contact me Here.
+
+[View All Files](https://github.com/ImranJuma/Carleton-University){: .btn}
 [Link To Carleton Program](https://admissions.carleton.ca/programs/computer-science/){: .btn}
 
-## ReadMe Information & Deployment Instructions  🛠
+## Specific Course Link  🛠
 
-The following Application was built on X-Code 9.1 and Tested on iOS 10-11.0.3
-This application will and can run on the following devices.
+[COMP 1405](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-1405){: .btn}
+[COMP 1406](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-1406){: .btn}
+[COMP 1601](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-1601){: .btn}
+[COMP 1805](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-1805){: .btn}
+[COMP 2401](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-2401){: .btn}
+[COMP 2402](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-2402){: .btn}
+[COMP 2404](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-2404){: .btn}
+[COMP 2406](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-2406){: .btn}
+[COMP 2601](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-2601){: .btn}
+[COMP 2804](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-2804){: .btn}
+[COMP 3000](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-3000){: .btn}
+[COMP 3005](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-3005){: .btn}
 
-	* iPhone 6
-	* iPhone 7
-	* iPhone 8
-	* iPhone X (Most Of The Time)
-	* iPhone SE / 5S / 5C (Most Of The Time)
-
-## 🔌  Important Information   🔌
-All files have also been backed up and noted in ReadMe.txt file, however this application will sometimes crash if running on X-Code 9.1 on some Mac devices. Have confirmed it is not the code, and is a result of an X-Code beta. If you are running the X-Code Beta, You Cannot Run My Assignment
-
-
-### iOS Application Pictures 📸
-
-<figure>
-<img src="/assets/vid/Demo_2.mov">
-	<figcaption>Live Gif Of Application Running.</figcaption>
-</figure>
-
-### Home Screen
-
-<figure>
-	<img src="/assets/img/Home_Page_2.0.png">
-	<figcaption>Home Screen Of Application.</figcaption>
-</figure>
-
-### Contact Us Page
-
-<figure>
-	<img src="/assets/img/Contact_Us_2.0.png">
-	<figcaption>Contact Us Page Including Live Email Contact, Direct Phone Calling, GPS Integration & Social Media Links.</figcaption>
-</figure>
-
-### Services Page
-
-<figure>
-	<img src="/assets/img/Services_Page_2.0.png">
-	<figcaption>Services Offered By Company Page.</figcaption>
-</figure>
-
-### About Us Page
-
-<figure>
-	<img src="/assets/img/About_Us_2.0.png">
-	<figcaption>A Brief Summary About The Company.</figcaption>
-</figure>
+## Courses Coming Soon 🛠
+- COMP 3004
+-	COMP 3007
+- COMP 3804
+- 4th Year Courses
+- Honours Project
