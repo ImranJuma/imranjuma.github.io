@@ -4,7 +4,7 @@ title: About Carleton University CS & Course Content
 ---
 
 <figure class="first">
-<img src="/assets/img/CarletonU.jpg.png">
+<img src="/assets/img/CarletonU.jpg">
 <figcaption>Carleton Univeristy x Imran Gabrani-Juma.</figcaption>
 </figure>
 
