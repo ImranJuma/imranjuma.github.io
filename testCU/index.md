@@ -9,7 +9,12 @@ comments: false
 	<figcaption>Carleton Univeristy</figcaption>
 </figure>
 
-Welcome to the page all about my CS (Computer Science) Degree BSc Computer Science Honours. Here, at Carleton University's Computer Science Program, I've learnt C++, Java, Java Script, HTML and Much More!
+Welcome to the page all about my CS (Computer Science) Degree BSc Computer Science Honours. Here, at Carleton University's Computer Science Program, I've learnt
+
+- C++
+- Java
+- Java Script
+- HTML and Much More!
 
 Carleton's CS Program is defiantly one that I would recommend however as always there's tons of independent learning you can do on the side, check out the Boot Camps Page to learn more about those.
 
@@ -17,7 +22,6 @@ This page contains all the course work, final exams, and review's I’ve created
 
 [View All Files](https://github.com/ImranJuma/Carleton-University){: .btn .btn-purple }
 [Link To Carleton Program](https://admissions.carleton.ca/programs/computer-science/){: .btn .btn-purple }
-
 
 ## Specific Course Link 📚 📖
 
