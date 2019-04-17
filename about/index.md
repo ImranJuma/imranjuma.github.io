@@ -31,7 +31,7 @@ comments: false
 
 ## Resume Information
 
-<center><a href="https://www.linkedin.com/in/imran-juma-939173129/"><b>Click Here</b></a> to contact me directly on LinkedIn, or click the button below and download my full Resume.</center>
+<center><a href="https://www.linkedin.com/in/imran-juma-939173129/"><b>Click Here</b></a> to contact me directly on LinkedIn, or click the button below and download & view my full Resume.</center>
 
 [View Resume](https://drive.google.com/file/d/1pMgzb8YlLdYMvf3GXtvw3ClWREFcc9r9/view?usp=sharing){: .btn}
 
