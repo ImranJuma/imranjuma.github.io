@@ -5,49 +5,122 @@ comments: false
 ---
 
 # Mobile App Development
-## Application 1  
-## Application 2  
-## Application 3  
+
+## iOS Application 1:
+### About:   
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+## iOS Application 2:  
+### About:
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+## Android Application 3:  
+### About:
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
 
 # Website Development
-## Application 1  
-## Application 2  
-## Application 3  
+
+## Website 1: Desktop  
+### About:
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+## Website 2: Mobile
+### About:
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+## Website 3: Content
+### About:
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
 
 # Software Development
-## Application 1  
-## Application 2  
-## Application 3  
+
+## Software Project 1:  
+### About:
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+## Software Project 2:
+### About:
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+## Software Project 3:
+### About:
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
 
 # UX Designs  
-## Application 1  
-## Application 2  
-## Application 3  
+
+## Idea 1:  
+### About:
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+## Idea 2:
+### About:
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+## Idea 3:
+### About:
+<figure class="third">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+  <img src="/assets/img/sample.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
 
 # UI Research
-## Application 1  
-## Application 2  
-## Application 3  
-
-
-
-<figure class="half">
-<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-1.jpg">
-<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-2.jpg">
-<figcaption>Caption describing these two images.</figcaption>
-</figure>
-
-# 3 Images
-
-<figure class="third">
-<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-1.jpg">
-<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-2.jpg">
-<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-3.jpg">
-<figcaption>Caption describing these three images.</figcaption>
-</figure>
-
-# Test 4
-
-# Test 5
-
-# Test 6
+## Figure 1:    
+## Figure 2:
+## Figure 3:
