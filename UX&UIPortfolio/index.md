@@ -4,9 +4,32 @@ title: Welcome To My UX & UI Portfolio
 comments: false
 ---
 
-# Test 1
+# Mobile App Development
+## Application 1  
+## Application 2  
+## Application 3  
 
-# 2 Images 
+# Website Development
+## Application 1  
+## Application 2  
+## Application 3  
+
+# Software Development
+## Application 1  
+## Application 2  
+## Application 3  
+
+# UX Designs  
+## Application 1  
+## Application 2  
+## Application 3  
+
+# UI Research
+## Application 1  
+## Application 2  
+## Application 3  
+
+
 
 <figure class="half">
 <img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-1.jpg">
@@ -14,7 +37,7 @@ comments: false
 <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
-# 3 Images 
+# 3 Images
 
 <figure class="third">
 <img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-1.jpg">
