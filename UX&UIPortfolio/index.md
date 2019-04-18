@@ -4,14 +4,27 @@ title: Welcome To My UX & UI Portfolio
 comments: false
 ---
 
-##TEST
+# Test 1
 
-##TEST
+# 2 Images 
 
-##TEST
+<figure class="half">
+<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-1.jpg">
+<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-2.jpg">
+<figcaption>Caption describing these two images.</figcaption>
+</figure>
 
-##TEST
+# 3 Images 
 
-##TEST
+<figure class="third">
+<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-1.jpg">
+<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-2.jpg">
+<img src="https://mmistakes.github.io/skinny-bones-jekyll/images/image-filename-3.jpg">
+<figcaption>Caption describing these three images.</figcaption>
+</figure>
 
-##TEST
+# Test 4
+
+# Test 5
+
+# Test 6
