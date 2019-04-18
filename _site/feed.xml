@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://imranjuma.github.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://imranjuma.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://imranjuma.github.io/" rel="alternate" type="text/html" /><updated>2019-04-18T00:25:46-04:00</updated><id>https://imranjuma.github.io/</id><title type="html">Imran Gabrani-Juma</title><subtitle>Here's Some Helpful Links To Navigate The Site!</subtitle><entry><title type="html">Eurostar Windows &amp;amp; Doors iOS Application</title><link href="https://imranjuma.github.io/EuroStar-Windows-Doors-iOS/" rel="alternate" type="text/html" title="Eurostar Windows &amp; Doors iOS Application" /><published>2018-08-08T00:00:00-04:00</published><updated>2018-08-08T00:00:00-04:00</updated><id>https://imranjuma.github.io/EuroStar-Windows-Doors-iOS</id><content type="html" xml:base="https://imranjuma.github.io/EuroStar-Windows-Doors-iOS/">&lt;p&gt;This project was specifically curated for a client that wanted their expanding window business on a mobile platform, the client requested an iOS application that would demo the different custom products they produced in a Apple friendly application different than their online website. From the clients perspective they wanted all the information from their existing website put inside a mobile application for iOS however with a different UI as well as a more immersive shopping experience. The real challenge here was to integrate so much information into a single mobile app without having the application too cluttered. Through this application, customers can see the different services offered, email the support team directly for order inquires, as well as view different catalogues of products that can be custom made.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/ImranJuma/EuroStarForiOS&quot; class=&quot;btn&quot;&gt;View Project&lt;/a&gt; &lt;a href=&quot;https://www.eurostarwindows.com&quot; class=&quot;btn&quot;&gt;View Client Website&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;readme-information--deployment-instructions--&quot;&gt;ReadMe Information &amp;amp; Deployment Instructions  🛠&lt;/h2&gt;
+
+&lt;p&gt;The following Application was built on X-Code 9.1 and Tested on iOS 10-11.0.3
+This application will and can run on the following devices.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* iPhone 6
+* iPhone 7
+* iPhone 8
+* iPhone X (Most Of The Time)
+* iPhone SE / 5S / 5C (Most Of The Time)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;--important-information--&quot;&gt;🔌  Important Information   🔌&lt;/h2&gt;
+&lt;p&gt;All files have also been backed up and noted in ReadMe.txt file, however this application will sometimes crash if running on X-Code 9.1 on some Mac devices. Have confirmed it is not the code, and is a result of an X-Code beta. If you are running the X-Code Beta, You Cannot Run My Assignment&lt;/p&gt;
+
+&lt;h3 id=&quot;ios-application-pictures-&quot;&gt;iOS Application Pictures 📸&lt;/h3&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;/assets/vid/Demo_2.mov&quot; /&gt;
+	&lt;figcaption&gt;Live Gif Of Application Running.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;home-screen&quot;&gt;Home Screen&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/Home_Page_2.0.png&quot; /&gt;
+	&lt;figcaption&gt;Home Screen Of Application.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;contact-us-page&quot;&gt;Contact Us Page&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/Contact_Us_2.0.png&quot; /&gt;
+	&lt;figcaption&gt;Contact Us Page Including Live Email Contact, Direct Phone Calling, GPS Integration &amp;amp; Social Media Links.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;services-page&quot;&gt;Services Page&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/Services_Page_2.0.png&quot; /&gt;
+	&lt;figcaption&gt;Services Offered By Company Page.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;about-us-page&quot;&gt;About Us Page&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/assets/img/About_Us_2.0.png&quot; /&gt;
+	&lt;figcaption&gt;A Brief Summary About The Company.&lt;/figcaption&gt;
+&lt;/figure&gt;</content><summary type="html">A custom made 📱 iOS App supporting iOS 11.2.0 and Greater. This mobile app is for a local custom window business in Ottawa, Ontario, Canada 🇨🇦</summary></entry><entry><title type="html">TipToTax</title><link href="https://imranjuma.github.io/TipToTax/" rel="alternate" type="text/html" title="TipToTax" /><published>2018-07-07T00:00:00-04:00</published><updated>2018-07-07T00:00:00-04:00</updated><id>https://imranjuma.github.io/TipToTax</id><content type="html" xml:base="https://imranjuma.github.io/TipToTax/">&lt;p&gt;Have you ever wondered how much to tip when going out to eat? Curious how much the bill is before tax? This live Android Application teaches the basics of Android Studio including how to use Radio Buttons, Design themes, and much more. The Project is fully available on my &lt;a href=&quot;http://github.com/ImranJuma/TipToTax&quot;&gt;&lt;b&gt;GitHub.&lt;/b&gt;&lt;/a&gt; Feel free to download the project and try it out! Below are some screen captures taken from this application.&lt;/p&gt;
+
+&lt;h2 id=&quot;readme-information--deployment-instructions-&quot;&gt;ReadMe Information &amp;amp; Deployment Instructions 🛠&lt;/h2&gt;
+
+&lt;p&gt;The following Application was built on Android Studio and Tested on Android Android Lollipop&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* Open Android Studio
+* Make Clean Build
+* Turn on Target Device / Virtual Device
+* Launch Application of Device / Run Project
+* Enjoy Application
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/ImranJuma/TipToTax&quot; class=&quot;btn&quot;&gt;View Project&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ios-application-pictures-&quot;&gt;iOS Application Pictures 📸&lt;/h3&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+	&lt;figcaption&gt;Sample Pictures From Application.&lt;/figcaption&gt;
+&lt;/figure&gt;</content><summary type="html">Have you ever wondered how much to tip when going out to eat 🍴? Curious how much the bill is before tax 💰? Download my Android application and test it out! This is also an open source project 🗳</summary></entry><entry><title type="html">Chat Room with WebSocket for iOS</title><link href="https://imranjuma.github.io/Chat-Room-With-WebSocket-iOS/" rel="alternate" type="text/html" title="Chat Room with WebSocket for iOS" /><published>2018-06-06T00:00:00-04:00</published><updated>2018-06-06T00:00:00-04:00</updated><id>https://imranjuma.github.io/Chat-Room-With-WebSocket-iOS</id><content type="html" xml:base="https://imranjuma.github.io/Chat-Room-With-WebSocket-iOS/">&lt;p&gt;For this project I made a Web Socket Chat Room. This project was for my course COMP 2406, a second year mobile application development course that is taught half the year in iOS (Swift) and half the year in Android Studio (Java). For this assignment we made first a web socket to learn the fundamentals of web development, and then hammered out the mobile application. This project only works on a local host however I particularly enjoyed the design aspect of this project as i got amazing hands on experience developing and designing a mobile app my own way.&lt;/p&gt;
+
+&lt;h2 id=&quot;readme-information--deployment-instructions-&quot;&gt;ReadMe Information &amp;amp; Deployment Instructions 🛠&lt;/h2&gt;
+
+&lt;p&gt;The following Application was built on X-Code 9.1 and Tested on iOS 10-11.0.3
+This application will and can run on the following devices.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* CD project location in terminal
+* CD Chat Server Nodejs with WebSockets -&amp;gt; You'll Have To Change Name To Something Without Spaces
+* Type &quot;node app.js&quot; This will run the server
+* Run X-Code Projects
+* Hit Connect To Server
+* Enjoy Application
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;implementation-techniques&quot;&gt;Implementation Techniques&lt;/h1&gt;
+
+&lt;h3 id=&quot;functionality-adaptations&quot;&gt;Functionality Adaptations&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;UIAlert For Connection&lt;/li&gt;
+  &lt;li&gt;UIAlert For Disconnection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;page-adaptations&quot;&gt;Page Adaptations&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;UILaunchScreen Page Added&lt;/li&gt;
+  &lt;li&gt;UIInstructions Page Added&lt;/li&gt;
+  &lt;li&gt;UIExit Page Added&lt;/li&gt;
+  &lt;li&gt;UIMainMenu Page Added&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;button-adaptations&quot;&gt;Button Adaptations&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;UIConnect Button Modified&lt;/li&gt;
+  &lt;li&gt;UIDisconnect Button Modified&lt;/li&gt;
+  &lt;li&gt;UISend Button Modified&lt;/li&gt;
+  &lt;li&gt;UIChatBubbles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;resources-used-for-development&quot;&gt;Resources Used For Development&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.raywenderlich.com/143874/websockets-ios-starscream&quot;&gt;&lt;b&gt;Reference 1&lt;/b&gt;&lt;/a&gt; This resource on different kinds of application tools&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/daltoniam/Starscream&quot;&gt;&lt;b&gt;Reference 2&lt;/b&gt;&lt;/a&gt; Great documentation on how to keep the code clean and organized, I found it very helpful during the building process of my application&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/ImranJuma/JumaChat&quot; class=&quot;btn&quot;&gt;View Project&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ios-application-pictures-&quot;&gt;iOS Application Pictures 📸&lt;/h3&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+	&lt;figcaption&gt;Sample Pictures From Application.&lt;/figcaption&gt;
+&lt;/figure&gt;</content><summary type="html">A 💻 Web Socket &amp; iOS Application 📱 All In One 🆒 💬</summary></entry><entry><title type="html">Maze Game for iOS 👾 🤖</title><link href="https://imranjuma.github.io/The-Maze-Project/" rel="alternate" type="text/html" title="Maze Game for iOS 👾 🤖" /><published>2018-05-05T00:00:00-04:00</published><updated>2018-05-05T00:00:00-04:00</updated><id>https://imranjuma.github.io/The-Maze-Project</id><content type="html" xml:base="https://imranjuma.github.io/The-Maze-Project/">&lt;p&gt;This project was developed for my course COMP 2406, a second year mobile application development course that is taught half the year in iOS (Swift) and half the year in Android Studio (Java). For this assignment where instructed to make a maze game that would allow the user to create and solve different kinds of puzzles as well as have different levels within the game.
+The Project is fully available on my &lt;a href=&quot;http://github.com/ImranJuma/Maze-Project&quot;&gt;&lt;b&gt;GitHub.&lt;/b&gt;&lt;/a&gt; Feel free to download the project and try it out! Below are some screen captures taken from this application.&lt;/p&gt;
+
+&lt;h2 id=&quot;readme-information--deployment-instructions-&quot;&gt;ReadMe Information &amp;amp; Deployment Instructions 🛠&lt;/h2&gt;
+
+&lt;p&gt;The following Application was built on Android Studio and Tested on Android Android Lollipop&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* Open Android Studio
+* Make Clean Build
+* Turn on Target Device / Virtual Device
+* Launch Application of Device / Run Project
+* Enjoy Application
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/ImranJuma/Maze-Project&quot; class=&quot;btn&quot;&gt;View Project&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ios-application-pictures---in-game-pictures-&quot;&gt;iOS Application Pictures 📸 &amp;amp; In Game Pictures 📸&lt;/h3&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+	&lt;figcaption&gt;Sample Pictures From Application.&lt;/figcaption&gt;
+&lt;/figure&gt;</content><summary type="html">A simple iOS game that practices maze building and object collisions in Android Studio using Java For Mobile Development</summary></entry><entry><title type="html">Tic Tac Toe iOS ❌ ⭕️</title><link href="https://imranjuma.github.io/TicTacToe-For-iOS/" rel="alternate" type="text/html" title="Tic Tac Toe iOS ❌ ⭕️" /><published>2018-04-04T00:00:00-04:00</published><updated>2018-04-04T00:00:00-04:00</updated><id>https://imranjuma.github.io/TicTacToe-For-iOS</id><content type="html" xml:base="https://imranjuma.github.io/TicTacToe-For-iOS/">&lt;p&gt;This unique project was for a Mobile Application Development course I was taking in Winter 2017. This project consisted of me creating an interactive Tic-Tac-Toe game for iOS devices. Working on this project was extremely fun as well as gave me a basic insight into more UX development as well as how to make an interactive game for a mobile device. This was an amazing learning experience. I would recommend building this kind of project to any student looking to expand their Swift knowledge and branch out to make something really cool while learning different pattern recognition within iOS libraries!&lt;/p&gt;
+
+&lt;h2 id=&quot;readme-information--deployment-instructions-&quot;&gt;ReadMe Information &amp;amp; Deployment Instructions 🛠&lt;/h2&gt;
+
+&lt;p&gt;The following Application was built on X-Code 9.1 and Tested on iOS 10-11.0.3
+This application will and can run on the following devices.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* iPhone 6
+* iPhone 7
+* iPhone 8
+* iPhone X (Most Of The Time)
+* iPhone SE / 5S / 5C (Most Of The Time)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;-important-information&quot;&gt;🔌 Important Information 🔌:&lt;/h2&gt;
+&lt;p&gt;All files have also been backed up and noted in ReadMe.txt file, however this application will sometimes crash if running on X-Code 9.1 on some Mac devices. Have confirmed it is not the code, and is a result of an X-Code beta. If you are running the X-Code Beta, You Cannot Run My Assignment&lt;/p&gt;
+
+&lt;h2 id=&quot;here-are-some-reference-links-for-building-the-project&quot;&gt;Here Are Some Reference Links For Building The Project:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://appsandbiscuits.com/move-between-view-controllers-with-segues-ios-9-7e231159e8f4&quot;&gt;&lt;b&gt;Reference 1&lt;/b&gt;&lt;/a&gt; How To Move Between View Controllers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lDMV8Um_8n8&quot;&gt;&lt;b&gt;Reference 2&lt;/b&gt;&lt;/a&gt; How To Create Different Alerts&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://teamtreehouse.com/community/thread-1-signal-sigabrt-at-the-end &quot;&gt;&lt;b&gt;Reference 3&lt;/b&gt;&lt;/a&gt; Helped Me Fix Errors, SO MANY ERROR’s&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/ImranJuma/TicTacToeiOS&quot; class=&quot;btn&quot;&gt;View Project&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ios-application-pictures-&quot;&gt;iOS Application Pictures 📸&lt;/h3&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; /&gt;
+  &lt;figcaption&gt;Sample Pictures From Application.&lt;/figcaption&gt;
+&lt;/figure&gt;</content><summary type="html">This is your average Tic-Tac-Toe game built in swift, this project was built as part of a in class for a mobile development course. I found this to be a great learning experience on patterns and how to get Swift code to recognize them</summary></entry></feed>
