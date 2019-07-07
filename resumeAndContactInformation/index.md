@@ -25,6 +25,10 @@ Proficiency In:
 
 #2019
 
+- Center For Bio-Security Canada
+-- Product Designer
+    (September '19 - Present)
+
 - CIBC
 -- Software Developer
    (May - Aug CO-OP)
