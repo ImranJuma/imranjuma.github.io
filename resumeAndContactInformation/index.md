@@ -23,7 +23,17 @@ Proficiency In:
 
 ## Work Experience
 
-#2019
+##2020 (Upcoming)
+
+- Center For Bio-Security Canada
+-- Product Designer
+    (September '19 - Present)
+
+- Carleton University
+-- IT Analysts Level 2 
+   (Sept '18 - Apr '19')
+
+##2019
 
 - Center For Bio-Security Canada
 -- Product Designer
@@ -34,19 +44,19 @@ Proficiency In:
    (May - Aug CO-OP)
 
 - Department of National Defense
--- UX & UI Developer / Data Scientist
+-- Data Scientist
    (Jan - Apr CO-OP)
 
 - Carleton University
 -- IT Analysts
    (Sept '18 - Apr '19')
 
-#2018
+##2018
 - Friday Labs
 -- iOS Developer / UX Developer
    (May - Aug CO-OP)
 
-#2017
+##2017
 - The Ottawa Hospital
 -- Python Developer
    (Sept '16 - Sept '17 CO-OP )
@@ -55,10 +65,11 @@ Proficiency In:
 - 2019 - 2020 CuHacking CoLead @ Carleton University
 - 2018 - 2019 CuHacking Design Team @ Carleton University
 - 2017 - 2018 CuHacking Web Developer  @ Carleton University
+- 2016 - 2017 CuHacking Social Media Team @ Carleton University
 
 ## Publications
 - QATrack+
-- Alteryx Designer Research 
+- Alteryx Designer Research
 
 ## Awards
 - CuHacking '17 -- Best Hack
