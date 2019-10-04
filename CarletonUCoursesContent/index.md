@@ -37,10 +37,7 @@ This page contains all the course work, final exams, and review's I’ve created
 [COMP 2804](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-2804){: .btn .btn-blue}
 [COMP 3000](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-3000){: .btn .btn-blue}
 [COMP 3005](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-3005){: .btn .btn-blue}
+[COMP 3007](https://github.com/ImranJuma/Carleton-University/tree/master/COMP-3005){: .btn .btn-blue}
 
 ## Courses Coming Soon 💡
 - COMP 3004
-- COMP 3007
-- COMP 3804
-- 4th Year Courses
-- Honours Project
