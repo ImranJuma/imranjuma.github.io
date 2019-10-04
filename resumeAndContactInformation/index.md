@@ -30,10 +30,10 @@ Proficiency In:
     (September '19 - Present)
 
 - Carleton University
--- IT Analysts Level 2 
+-- IT Analysts Level 2
    (Sept '18 - Apr '19')
 
-##2019
+## 2019
 
 - Center For Bio-Security Canada
 -- Product Designer
@@ -51,12 +51,12 @@ Proficiency In:
 -- IT Analysts
    (Sept '18 - Apr '19')
 
-##2018
+## 2018
 - Friday Labs
 -- iOS Developer / UX Developer
    (May - Aug CO-OP)
 
-##2017
+## 2017
 - The Ottawa Hospital
 -- Python Developer
    (Sept '16 - Sept '17 CO-OP )
