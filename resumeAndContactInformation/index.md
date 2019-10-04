@@ -23,7 +23,7 @@ Proficiency In:
 
 ## Work Experience
 
-##2020 (Upcoming)
+## 2020 (Upcoming)
 
 - Center For Bio-Security Canada
 -- Product Designer
@@ -31,7 +31,7 @@ Proficiency In:
 
 - Carleton University
 -- IT Analysts Level 2
-   (Sept '18 - Apr '19')
+   (Sept '18 - Present)
 
 ## 2019
 
