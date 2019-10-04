@@ -58,6 +58,7 @@ Proficiency In:
 
 ## Publications
 - QATrack+
+- Alteryx Designer Research 
 
 ## Awards
 - CuHacking '17 -- Best Hack
