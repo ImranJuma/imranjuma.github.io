@@ -6,11 +6,6 @@ comments: 🔨🚧 🏗  This Page Is Still In Development -- More Content Comin
 
 
 <figure>
-	<img src="/assets/img/PortfolioContent_1.png">
-	<figcaption> 📸 Health Canada (LINC) Collection -- October 2019 .</figcaption>
-</figure>
-
-<figure>
-	<img src="/assets/img/PortfolioContent_2.png">
+	<img src="/assets/img/Health_Canada_Graphic_V3.0.8.png">
 	<figcaption> 📸 Health Canada (LINC) Collection -- October 2019 .</figcaption>
 </figure>
